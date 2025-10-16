@@ -645,7 +645,7 @@
   },
   {
     "boardStation": "МС-14 ПЪТ1",
-    "boardTime": "8:0",
+    "boardTime": "8:10",
     "dispatcherTime": "7:40",
     "distance": "169.74",
     "doctorTime": "7:10",
@@ -967,7 +967,7 @@
   },
   {
     "boardStation": "МС-14 ПЪТ2",
-    "boardTime": "20:30",
+    "boardTime": "20:38",
     "dispatcherTime": "20:10",
     "distance": "54.14",
     "doctorTime": "19:40",
