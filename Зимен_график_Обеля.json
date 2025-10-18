@@ -263,7 +263,21 @@
     "name": "БОЛНИЧЕН ",
     "unboardStation": "",
     "unboardTime": "",
-    "workDuration": "8"
+    "workDuration": "8:00"
+  },
+  {
+    "boardStation": "",
+    "boardTime": "",
+    "dispatcherTime": "",
+    "distance": "0",
+    "doctorTime": "",
+    "endTime": "",
+    "id": 331,
+    "isHoliday": true,
+    "name": "БОЛНИЧЕН ",
+    "unboardStation": "",
+    "unboardTime": "",
+    "workDuration": ""
   },
   {
     "boardStation": "МС-1 ",
@@ -305,7 +319,7 @@
     "name": "К.Т.Д.",
     "unboardStation": "",
     "unboardTime": "",
-    "workDuration": "8"
+    "workDuration": "8:00"
   },
   {
     "boardStation": "ДЕПО ",
@@ -697,7 +711,7 @@
     "name": "О",
     "unboardStation": "О",
     "unboardTime": "О",
-    "workDuration": "О"
+    "workDuration": "8:00"
   },
   {
     "boardStation": "",
@@ -711,7 +725,7 @@
     "name": "ОТПУСКА ",
     "unboardStation": "",
     "unboardTime": "",
-    "workDuration": "8"
+    "workDuration": "8:00"
   },
   {
     "boardStation": "МС-16",
@@ -2201,7 +2215,7 @@
     "boardStation": "МС-1 ",
     "boardTime": "08:36",
     "dispatcherTime": "08:05",
-    "distance": "11:30",
+    "distance": "194,6",
     "doctorTime": "07:35",
     "endTime": "19:05",
     "id": 215,
@@ -2209,7 +2223,7 @@
     "name": "СМ-2",
     "unboardStation": "МС-1 ",
     "unboardTime": "18:52",
-    "workDuration": "19:05"
+    "workDuration": "11:30"
   },
   {
     "boardStation": "МС-1 ",
@@ -4460,6 +4474,20 @@
     "endTime": "08:15",
     "id": 148,
     "isHoliday": false,
+    "name": "ТРН-02",
+    "unboardStation": "МС-0 ",
+    "unboardTime": "МС-0 ",
+    "workDuration": "13:10"
+  },
+  {
+    "boardStation": "МС-1",
+    "boardTime": "МС-0 ",
+    "dispatcherTime": "20:45",
+    "distance": "0",
+    "doctorTime": "20:15",
+    "endTime": "08:15",
+    "id": 332,
+    "isHoliday": true,
     "name": "ТРН-02",
     "unboardStation": "МС-0 ",
     "unboardTime": "МС-0 ",
