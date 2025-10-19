@@ -394,7 +394,21 @@
   {
     "boardStation": "ДЕПО ",
     "boardTime": "ДЕПО ",
-    "dispatcherTime": "05:10",
+    "dispatcherTime": "05:20",
+    "distance": "0",
+    "doctorTime": "04:50",
+    "endTime": "08:50",
+    "id": 207,
+    "isHoliday": true,
+    "name": "МД-133",
+    "unboardStation": "ДЕПО ",
+    "unboardTime": "ДЕПО ",
+    "workDuration": "4:10"
+  },
+  {
+    "boardStation": "ДЕПО ",
+    "boardTime": "ДЕПО ",
+    "dispatcherTime": "05:20",
     "distance": "0",
     "doctorTime": "04:50",
     "endTime": "08:50",
@@ -698,20 +712,6 @@
     "unboardStation": "МС-1 ",
     "unboardTime": "МС-1 ",
     "workDuration": "13:40"
-  },
-  {
-    "boardStation": "О",
-    "boardTime": "О",
-    "dispatcherTime": "О",
-    "distance": "0",
-    "doctorTime": "О",
-    "endTime": "О",
-    "id": 171,
-    "isHoliday": false,
-    "name": "О",
-    "unboardStation": "О",
-    "unboardTime": "О",
-    "workDuration": "8:00"
   },
   {
     "boardStation": "",
@@ -1944,20 +1944,6 @@
     "unboardStation": "МС-1 ",
     "unboardTime": "08:01",
     "workDuration": "3:55"
-  },
-  {
-    "boardStation": "ДЕПО ",
-    "boardTime": "ДЕПО ",
-    "dispatcherTime": "05:10",
-    "distance": "0",
-    "doctorTime": "04:50",
-    "endTime": "08:50",
-    "id": 207,
-    "isHoliday": true,
-    "name": "СМ-133",
-    "unboardStation": "ДЕПО ",
-    "unboardTime": "ДЕПО ",
-    "workDuration": "4:10"
   },
   {
     "boardStation": "ДЕПО ",
@@ -3916,7 +3902,7 @@
     "isHoliday": false,
     "name": "СМ-32",
     "unboardStation": "ДЕПО ",
-    "unboardTime": "20:21",
+    "unboardTime": "20:17",
     "workDuration": "11:40"
   },
   {
@@ -4034,7 +4020,7 @@
   {
     "boardStation": "МС-1 ",
     "boardTime": "08:50",
-    "dispatcherTime": "08:10",
+    "dispatcherTime": "08:20",
     "distance": "186,4",
     "doctorTime": "07:50",
     "endTime": "18:55",
