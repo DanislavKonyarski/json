@@ -308,6 +308,34 @@
     "workDuration": "12:00"
   },
   {
+    "boardStation": "МС-212",
+    "boardTime": "МС-212",
+    "dispatcherTime": "08:00",
+    "distance": "0",
+    "doctorTime": "08:00",
+    "endTime": "20:00",
+    "id": 163,
+    "isHoliday": false,
+    "name": "ДМС-212",
+    "unboardStation": "МС-212",
+    "unboardTime": "МС-212",
+    "workDuration": "12:00"
+  },
+  {
+    "boardStation": "МС-212 ",
+    "boardTime": "МС-212 ",
+    "dispatcherTime": "08:00",
+    "distance": "0",
+    "doctorTime": "08:00",
+    "endTime": "20:00",
+    "id": 320,
+    "isHoliday": true,
+    "name": "ДМС-212",
+    "unboardStation": "МС-212 ",
+    "unboardTime": "МС-212 ",
+    "workDuration": "12"
+  },
+  {
     "boardStation": "",
     "boardTime": "",
     "dispatcherTime": "",
@@ -714,6 +742,34 @@
     "workDuration": "12:00"
   },
   {
+    "boardStation": "МС-212",
+    "boardTime": "МС-212",
+    "dispatcherTime": "20:00",
+    "distance": "0",
+    "doctorTime": "20:00",
+    "endTime": "08:00",
+    "id": 164,
+    "isHoliday": false,
+    "name": "НМС-212",
+    "unboardStation": "МС-212 ",
+    "unboardTime": "МС-212 ",
+    "workDuration": "12:00"
+  },
+  {
+    "boardStation": "МС-212 ",
+    "boardTime": "МС-212 ",
+    "dispatcherTime": "20:00",
+    "distance": "0",
+    "doctorTime": "20:00",
+    "endTime": "08:00",
+    "id": 321,
+    "isHoliday": true,
+    "name": "НМС-212",
+    "unboardStation": "МС-212 ",
+    "unboardTime": "МС-212 ",
+    "workDuration": "12:00"
+  },
+  {
     "boardStation": "",
     "boardTime": "",
     "dispatcherTime": "",
@@ -754,34 +810,6 @@
     "unboardStation": "МС-16 ",
     "unboardTime": "МС-16 ",
     "workDuration": "12:00"
-  },
-  {
-    "boardStation": "МС-212",
-    "boardTime": "МС-212",
-    "dispatcherTime": "08:00",
-    "distance": "0",
-    "doctorTime": "08:00",
-    "endTime": "20:00",
-    "id": 163,
-    "isHoliday": false,
-    "name": "РМСД-212",
-    "unboardStation": "МС-212",
-    "unboardTime": "МС-212",
-    "workDuration": "12:00"
-  },
-  {
-    "boardStation": "МС-212 ",
-    "boardTime": "МС-212 ",
-    "dispatcherTime": "08:00",
-    "distance": "0",
-    "doctorTime": "08:00",
-    "endTime": "20:00",
-    "id": 320,
-    "isHoliday": true,
-    "name": "РМСД-212",
-    "unboardStation": "МС-212 ",
-    "unboardTime": "МС-212 ",
-    "workDuration": "12"
   },
   {
     "boardStation": "МС-23",
@@ -868,34 +896,6 @@
     "workDuration": "12:00"
   },
   {
-    "boardStation": "МС-212",
-    "boardTime": "МС-212",
-    "dispatcherTime": "20:00",
-    "distance": "0",
-    "doctorTime": "20:00",
-    "endTime": "08:00",
-    "id": 164,
-    "isHoliday": false,
-    "name": "РМСН-212",
-    "unboardStation": "МС-212 ",
-    "unboardTime": "МС-212 ",
-    "workDuration": "12:00"
-  },
-  {
-    "boardStation": "МС-212 ",
-    "boardTime": "МС-212 ",
-    "dispatcherTime": "20:00",
-    "distance": "0",
-    "doctorTime": "20:00",
-    "endTime": "08:00",
-    "id": 321,
-    "isHoliday": true,
-    "name": "РМСН-212",
-    "unboardStation": "МС-212 ",
-    "unboardTime": "МС-212 ",
-    "workDuration": "12:00"
-  },
-  {
     "boardStation": "МС-23",
     "boardTime": "МС-23",
     "dispatcherTime": "21:15",
@@ -954,7 +954,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "08:59",
-    "dispatcherTime": "08:30",
+    "dispatcherTime": "08:00",
     "distance": "161",
     "doctorTime": "08:00",
     "endTime": "19:35",
@@ -990,7 +990,7 @@
     "isHoliday": false,
     "name": "СМ-10",
     "unboardStation": "МС-212 ",
-    "unboardTime": "18:26",
+    "unboardTime": "19:26",
     "workDuration": "10:20"
   },
   {
@@ -2186,7 +2186,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "08:53",
-    "dispatcherTime": "08:25",
+    "dispatcherTime": "07:55",
     "distance": "161",
     "doctorTime": "07:55",
     "endTime": "19:40",
@@ -2662,7 +2662,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "19:22",
-    "dispatcherTime": "18:50",
+    "dispatcherTime": "18:20",
     "distance": "72",
     "doctorTime": "18:20",
     "endTime": "00:25",
@@ -2802,7 +2802,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "19:29",
-    "dispatcherTime": "19:00",
+    "dispatcherTime": "18:30",
     "distance": "72",
     "doctorTime": "18:30",
     "endTime": "01:55",
@@ -2830,7 +2830,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "20:26",
-    "dispatcherTime": "20:00",
+    "dispatcherTime": "19:30",
     "distance": "49",
     "doctorTime": "19:30",
     "endTime": "01:00",
@@ -2858,7 +2858,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "19:15",
-    "dispatcherTime": "18:45",
+    "dispatcherTime": "18:15",
     "distance": "72",
     "doctorTime": "18:15",
     "endTime": "01:55",
@@ -2886,7 +2886,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "20:11",
-    "dispatcherTime": "19:40",
+    "dispatcherTime": "19:10",
     "distance": "72",
     "doctorTime": "19:10",
     "endTime": "02:15",
@@ -2914,7 +2914,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "18:40",
-    "dispatcherTime": "18:10",
+    "dispatcherTime": "17:40",
     "distance": "72",
     "doctorTime": "17:40",
     "endTime": "01:10",
@@ -2942,7 +2942,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "19:36",
-    "dispatcherTime": "19:05",
+    "dispatcherTime": "18:35",
     "distance": "72",
     "doctorTime": "18:35",
     "endTime": "02:10",
@@ -3124,7 +3124,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "19:19",
-    "dispatcherTime": "18:50",
+    "dispatcherTime": "18:20",
     "distance": "72",
     "doctorTime": "18:20",
     "endTime": "01:15",
@@ -3152,7 +3152,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "18:39",
-    "dispatcherTime": "18:10",
+    "dispatcherTime": "17:40",
     "distance": "72",
     "doctorTime": "17:40",
     "endTime": "01:35",
@@ -3180,7 +3180,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "18:59",
-    "dispatcherTime": "18:30",
+    "dispatcherTime": "18:00",
     "distance": "95",
     "doctorTime": "18:00",
     "endTime": "01:40",
@@ -3208,7 +3208,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "19:39",
-    "dispatcherTime": "19:10",
+    "dispatcherTime": "18:40",
     "distance": "72",
     "doctorTime": "18:40",
     "endTime": "01:45",
@@ -3320,7 +3320,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "08:21",
-    "dispatcherTime": "07:50",
+    "dispatcherTime": "07:20",
     "distance": "161",
     "doctorTime": "07:20",
     "endTime": "18:50",
@@ -3572,7 +3572,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "08:35",
-    "dispatcherTime": "08:05",
+    "dispatcherTime": "07:35",
     "distance": "161",
     "doctorTime": "07:35",
     "endTime": "18:30",
@@ -3684,7 +3684,7 @@
   {
     "boardStation": "МС-0",
     "boardTime": "09:17",
-    "dispatcherTime": "08:50",
+    "dispatcherTime": "08:20",
     "distance": "161",
     "doctorTime": "08:20",
     "endTime": "19:30",
@@ -3740,7 +3740,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "08:46",
-    "dispatcherTime": "08:15",
+    "dispatcherTime": "07:45",
     "distance": "172,5",
     "doctorTime": "07:45",
     "endTime": "19:10",
@@ -3810,7 +3810,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "08:11",
-    "dispatcherTime": "07:40",
+    "dispatcherTime": "07:10",
     "distance": "138",
     "doctorTime": "07:10",
     "endTime": "17:50",
@@ -4006,7 +4006,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "08:05",
-    "dispatcherTime": "07:35",
+    "dispatcherTime": "07:05",
     "distance": "161",
     "doctorTime": "07:05",
     "endTime": "18:30",
@@ -4118,7 +4118,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "08:35",
-    "dispatcherTime": "08:05",
+    "dispatcherTime": "07:35",
     "distance": "138",
     "doctorTime": "07:35",
     "endTime": "19:25",
@@ -4146,7 +4146,7 @@
   {
     "boardStation": "МС-0 ",
     "boardTime": "08:18",
-    "dispatcherTime": "07:50",
+    "dispatcherTime": "07:20",
     "distance": "161",
     "doctorTime": "07:20",
     "endTime": "18:50",
@@ -4258,7 +4258,7 @@
   {
     "boardStation": "МС-1",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "07:45",
+    "dispatcherTime": "07:15",
     "distance": "0",
     "doctorTime": "07:15",
     "endTime": "19:15",
@@ -4272,7 +4272,7 @@
   {
     "boardStation": "МС-1 ",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "07:45",
+    "dispatcherTime": "07:15",
     "distance": "0",
     "doctorTime": "07:15",
     "endTime": "19:15",
@@ -4286,7 +4286,7 @@
   {
     "boardStation": "МС-1",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "08:45",
+    "dispatcherTime": "08:15",
     "distance": "0",
     "doctorTime": "08:15",
     "endTime": "20:15",
@@ -4300,7 +4300,7 @@
   {
     "boardStation": "МС-1 ",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "08:45",
+    "dispatcherTime": "08:15",
     "distance": "0",
     "doctorTime": "08:15",
     "endTime": "20:15",
@@ -4426,7 +4426,7 @@
   {
     "boardStation": "МС-1",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "19:45",
+    "dispatcherTime": "19:15",
     "distance": "0",
     "doctorTime": "19:15",
     "endTime": "07:15",
@@ -4440,7 +4440,7 @@
   {
     "boardStation": "МС-1 ",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "19:45",
+    "dispatcherTime": "19:15",
     "distance": "0",
     "doctorTime": "19:15",
     "endTime": "07:15",
@@ -4454,7 +4454,7 @@
   {
     "boardStation": "МС-1",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "20:45",
+    "dispatcherTime": "20:15",
     "distance": "0",
     "doctorTime": "20:15",
     "endTime": "08:15",
@@ -4468,7 +4468,7 @@
   {
     "boardStation": "МС-1",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "20:45",
+    "dispatcherTime": "20:15",
     "distance": "0",
     "doctorTime": "20:15",
     "endTime": "08:15",
