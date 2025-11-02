@@ -1331,7 +1331,7 @@
   },
   {
     "boardStation": "ДЕПО МС-1 ",
-    "boardTime": "06:57",
+    "boardTime": "06:28",
     "dispatcherTime": "05:30",
     "distance": "34",
     "doctorTime": "05:00",
@@ -1340,7 +1340,7 @@
     "isHoliday": true,
     "name": "СМ-111 ",
     "unboardStation": "МС-1 ",
-    "unboardTime": "08:08",
+    "unboardTime": "07:40",
     "workDuration": "2:50"
   },
   {
