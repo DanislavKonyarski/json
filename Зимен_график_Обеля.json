@@ -990,7 +990,7 @@
     "isHoliday": false,
     "name": "СМ-10",
     "unboardStation": "МС-212 ",
-    "unboardTime": "19:26",
+    "unboardTime": "18:26",
     "workDuration": "10:20"
   },
   {
@@ -3799,7 +3799,7 @@
     "dispatcherTime": "08:00",
     "distance": "161",
     "doctorTime": "08:00",
-    "endTime": "19:50",
+    "endTime": "18:50",
     "id": 242,
     "isHoliday": true,
     "name": "СМ-29",
@@ -4028,7 +4028,7 @@
     "isHoliday": true,
     "name": "СМ-4",
     "unboardStation": "МС-1 ",
-    "unboardTime": "09:20",
+    "unboardTime": "18:46",
     "workDuration": "11:05"
   },
   {
@@ -4424,7 +4424,7 @@
     "workDuration": "12:00"
   },
   {
-    "boardStation": "МС-1",
+    "boardStation": "МС-212",
     "boardTime": "МС-0 ",
     "dispatcherTime": "19:15",
     "distance": "0",
@@ -4438,7 +4438,7 @@
     "workDuration": "12:00"
   },
   {
-    "boardStation": "МС-1 ",
+    "boardStation": "МС-212",
     "boardTime": "МС-0 ",
     "dispatcherTime": "19:15",
     "distance": "0",
@@ -4452,7 +4452,7 @@
     "workDuration": "12:00"
   },
   {
-    "boardStation": "МС-1",
+    "boardStation": "МС-212",
     "boardTime": "МС-0 ",
     "dispatcherTime": "20:15",
     "distance": "0",
@@ -4466,7 +4466,7 @@
     "workDuration": "12:00"
   },
   {
-    "boardStation": "МС-1",
+    "boardStation": "МС-212",
     "boardTime": "МС-0 ",
     "dispatcherTime": "20:15",
     "distance": "0",
