@@ -2591,6 +2591,20 @@
   },
   {
     "boardStation": "МС-1 ",
+    "boardTime": "22:30",
+    "dispatcherTime": "22:00",
+    "distance": "84,4",
+    "doctorTime": "21:30",
+    "endTime": "07:30",
+    "id": 100,
+    "isHoliday": false,
+    "name": "СМ-207 ДП",
+    "unboardStation": "МС-1 ",
+    "unboardTime": "07:18",
+    "workDuration": "10:00"
+  },
+  {
+    "boardStation": "МС-1 ",
     "boardTime": "21:49",
     "dispatcherTime": "21:20",
     "distance": "103",
@@ -2602,20 +2616,6 @@
     "unboardStation": "МС-1 ",
     "unboardTime": "07:55",
     "workDuration": "11:15"
-  },
-  {
-    "boardStation": "МС-1 ",
-    "boardTime": "22:30",
-    "dispatcherTime": "22:00",
-    "distance": "84,4",
-    "doctorTime": "21:30",
-    "endTime": "07:30",
-    "id": 100,
-    "isHoliday": false,
-    "name": "СМ-207 ПП",
-    "unboardStation": "МС-1 ",
-    "unboardTime": "07:18",
-    "workDuration": "10:00"
   },
   {
     "boardStation": "МС-1 ",
