@@ -2632,7 +2632,7 @@
     "workDuration": "10:00"
   },
   {
-    "boardStation": "МС-1 ",
+    "boardStation": "ДЕПО",
     "boardTime": "21:49",
     "dispatcherTime": "21:20",
     "distance": "103",
@@ -2646,7 +2646,7 @@
     "workDuration": "11:15"
   },
   {
-    "boardStation": "МС-1 ",
+    "boardStation": "ДЕПО ",
     "boardTime": "21:49",
     "dispatcherTime": "21:20",
     "distance": "111,2",
@@ -4019,7 +4019,7 @@
   },
   {
     "boardStation": "МС-1 ",
-    "boardTime": "08:58",
+    "boardTime": "08:28",
     "dispatcherTime": "08:00",
     "distance": "168,8",
     "doctorTime": "07:30",
