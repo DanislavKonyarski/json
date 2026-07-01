@@ -436,20 +436,6 @@
   {
     "boardStation": "ДЕПО ",
     "boardTime": "ДЕПО ",
-    "dispatcherTime": "05:20",
-    "distance": "0",
-    "doctorTime": "04:50",
-    "endTime": "08:50",
-    "id": 208,
-    "isHoliday": true,
-    "name": "МД-133",
-    "unboardStation": "ДЕПО ",
-    "unboardTime": "ДЕПО ",
-    "workDuration": "4:00"
-  },
-  {
-    "boardStation": "ДЕПО ",
-    "boardTime": "ДЕПО ",
     "dispatcherTime": "05:00",
     "distance": "0",
     "doctorTime": "04:30",
@@ -924,7 +910,7 @@
     "workDuration": "11:20"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО, П МС-1 ",
     "boardTime": "07:04",
     "dispatcherTime": "06:30",
     "distance": "42,2",
@@ -994,7 +980,7 @@
     "workDuration": "4:10"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО, П МС-1 ",
     "boardTime": "06:20",
     "dispatcherTime": "05:50",
     "distance": "42,2",
@@ -1022,7 +1008,7 @@
     "workDuration": "4:20"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО, П МС-1 ",
     "boardTime": "06:43",
     "dispatcherTime": "06:15",
     "distance": "34",
@@ -1050,7 +1036,7 @@
     "workDuration": "3:40"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО, П МС-1 ",
     "boardTime": "07:18",
     "dispatcherTime": "06:30",
     "distance": "42,2",
@@ -1134,7 +1120,7 @@
     "workDuration": "4:55"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО, П МС-1 ",
     "boardTime": "07:40",
     "dispatcherTime": "06:30",
     "distance": "34",
@@ -1218,7 +1204,7 @@
     "workDuration": "2:45"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО, П МС-1 ",
     "boardTime": "06:35",
     "dispatcherTime": "05:40",
     "distance": "42,2",
@@ -1246,7 +1232,7 @@
     "workDuration": "2:30"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО, П МС-1 ",
     "boardTime": "06:28",
     "dispatcherTime": "05:30",
     "distance": "34",
@@ -1274,7 +1260,7 @@
     "workDuration": "4:45"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО, П МС-1 ",
     "boardTime": "06:57",
     "dispatcherTime": "06:30",
     "distance": "34",
@@ -1302,7 +1288,7 @@
     "workDuration": "3:45"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО, П МС-1 ",
     "boardTime": "07:11",
     "dispatcherTime": "06:30",
     "distance": "34",
@@ -1358,7 +1344,7 @@
     "workDuration": "3:50"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО, П МС-1 ",
     "boardTime": "06:13",
     "dispatcherTime": "05:35",
     "distance": "34",
@@ -1386,7 +1372,7 @@
     "workDuration": "3:45"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО, П МС-1 ",
     "boardTime": "07:33",
     "dispatcherTime": "06:30",
     "distance": "42,2",
@@ -1414,7 +1400,7 @@
     "workDuration": "3:50"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО, П МС-1 ",
     "boardTime": "06:50",
     "dispatcherTime": "05:40",
     "distance": "42,2",
@@ -1680,7 +1666,7 @@
     "workDuration": "4:05"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО",
     "boardTime": "04:59",
     "dispatcherTime": "04:30",
     "distance": "85,4",
@@ -1694,7 +1680,7 @@
     "workDuration": "5:10"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО, П МС-1 ",
     "boardTime": "07:47",
     "dispatcherTime": "06:45",
     "distance": "42,2",
@@ -1722,7 +1708,7 @@
     "workDuration": "4:25"
   },
   {
-    "boardStation": "ДЕПО МС-1 ",
+    "boardStation": "ДЕПО, П МС-1 ",
     "boardTime": "07:54",
     "dispatcherTime": "06:45",
     "distance": "34",
@@ -2369,7 +2355,7 @@
     "boardStation": "МС-1 ",
     "boardTime": "20:56",
     "dispatcherTime": "20:25",
-    "distance": "103",
+    "distance": "111,2",
     "doctorTime": "19:55",
     "endTime": "07:40",
     "id": 97,
