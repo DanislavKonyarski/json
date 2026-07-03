@@ -831,7 +831,7 @@
     "dispatcherTime": "21:15",
     "distance": "0",
     "doctorTime": "20:45",
-    "endTime": "08:15",
+    "endTime": "08:45",
     "id": 152,
     "isHoliday": false,
     "name": "РМСН-5",
@@ -1162,18 +1162,18 @@
     "workDuration": "2:40"
   },
   {
-    "boardStation": "МС-212 ",
-    "boardTime": "08:59",
-    "dispatcherTime": "08:30",
-    "distance": "184",
-    "doctorTime": "08:30",
-    "endTime": "19:25",
+    "boardStation": "МС-1 ",
+    "boardTime": "08:02",
+    "dispatcherTime": "07:30",
+    "distance": "195,6",
+    "doctorTime": "07:00",
+    "endTime": "18:40",
     "id": 51,
     "isHoliday": false,
     "name": "СМ-11",
-    "unboardStation": "МС-212 ",
-    "unboardTime": "19:15",
-    "workDuration": "10:55"
+    "unboardStation": "МС-1 ",
+    "unboardTime": "18:28",
+    "workDuration": "11:40"
   },
   {
     "boardStation": "МС-1 ",
