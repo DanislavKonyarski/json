@@ -336,6 +336,21 @@
     "workDuration": "12"
   },
   {
+    "additionalInfo": "",
+    "boardStation": "",
+    "boardTime": "",
+    "dispatcherTime": "",
+    "distance": "",
+    "doctorTime": "",
+    "endTime": "",
+    "id": 335,
+    "isHoliday": false,
+    "name": "ИЗПИТ",
+    "unboardStation": "",
+    "unboardTime": "",
+    "workDuration": "4:00"
+  },
+  {
     "boardStation": "",
     "boardTime": "",
     "dispatcherTime": "",
@@ -812,6 +827,21 @@
     "workDuration": "8:00"
   },
   {
+    "additionalInfo": "",
+    "boardStation": "",
+    "boardTime": "",
+    "dispatcherTime": "",
+    "distance": "",
+    "doctorTime": "",
+    "endTime": "",
+    "id": 336,
+    "isHoliday": false,
+    "name": "ПРЕГЛЕДИ ",
+    "unboardStation": "",
+    "unboardTime": "",
+    "workDuration": "4:00"
+  },
+  {
     "boardStation": "МС-16",
     "boardTime": "МС-16",
     "dispatcherTime": "08:45",
@@ -980,6 +1010,7 @@
     "workDuration": "12:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"08:59\",\"distance\":\"23\",\"route\":\"3\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"09:59\"},{\"boardStation\":\"МС-0 \",\"boardTime\":\"10:53\",\"distance\":\"46\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"12:45\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"13:41\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"14:37\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"15:33\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"16:29\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"17:30\",\"distance\":\"46\",\"route\":\"6\",\"unboardStation\":\"МС-0 \",\"unboardTime\":\"19:22\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "08:59",
     "dispatcherTime": "08:00",
@@ -994,6 +1025,7 @@
     "workDuration": "11:35"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:12\",\"distance\":\"42,4\",\"route\":\"9/25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:40\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:34\",\"distance\":\"68\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:58\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:52\",\"distance\":\"42,2\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:16\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:22\",\"distance\":\"34\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:34\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:12",
     "dispatcherTime": "08:45",
@@ -1008,6 +1040,7 @@
     "workDuration": "10:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"08:53\",\"distance\":\"23\",\"route\":\"10\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"09:53\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"10:57\",\"distance\":\"46\",\"route\":\"11\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"12:49\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"13:37\",\"distance\":\"46\",\"route\":\"10\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"15:29\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"16:33\",\"distance\":\"46\",\"route\":\"11\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"18:26\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "08:53",
     "dispatcherTime": "08:20",
@@ -1022,6 +1055,7 @@
     "workDuration": "10:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"08:23\",\"distance\":\"43,2\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:52\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:58\",\"distance\":\"68\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:22\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:40\",\"distance\":\"42,2\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:04\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:04\",\"distance\":\"42,2\",\"route\":\"27\",\"unboardStation\":\"МС-1, ПЪТ 2 \",\"unboardTime\":\"18:28\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "08:23",
     "dispatcherTime": "08:50",
@@ -1036,6 +1070,7 @@
     "workDuration": "11:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"04:25\",\"distance\":\"3\",\"route\":\"2\",\"unboardStation\":\"МС-0, ТУПИК \",\"unboardTime\":\"04:42\"},{\"boardStation\":\"МС-0, ПЪТ 2\",\"boardTime\":\"05:05\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"05:58\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"06:37\",\"distance\":\"46\",\"route\":\"4\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"08:35\"}]",
     "boardStation": "ДЕПО МС-0",
     "boardTime": "04:25",
     "dispatcherTime": "03:55",
@@ -1050,6 +1085,7 @@
     "workDuration": "5:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:04\",\"distance\":\"42,2\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:29\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "07:04",
     "dispatcherTime": "06:30",
@@ -1064,6 +1100,7 @@
     "workDuration": "2:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"04:30\",\"distance\":\"3\",\"route\":\"3\",\"unboardStation\":\"МС-0, ТУПИК \",\"unboardTime\":\"04:47\"},{\"boardStation\":\"МС-0, ПЪТ 2\",\"boardTime\":\"05:13\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"06:06\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"07:01\",\"distance\":\"46\",\"route\":\"3\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"08:59\"}]",
     "boardStation": "ДЕПО МС-0",
     "boardTime": "04:30",
     "dispatcherTime": "04:00",
@@ -1078,6 +1115,7 @@
     "workDuration": "5:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:34\",\"distance\":\"43,2\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:04\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:34",
     "dispatcherTime": "05:05",
@@ -1092,6 +1130,7 @@
     "workDuration": "2:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"04:35\",\"distance\":\"3\",\"route\":\"4\",\"unboardStation\":\"МС-0, ТУПИК \",\"unboardTime\":\"04:52\"},{\"boardStation\":\"МС-0, ПЪТ 2\",\"boardTime\":\"05:21\",\"distance\":\"23\",\"route\":\"8\",\"unboardStation\":\"МС-0 \",\"unboardTime\":\"06:14\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"06:56\",\"distance\":\"46\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"08:53\"}]",
     "boardStation": "ДЕПО МС-0",
     "boardTime": "04:35",
     "dispatcherTime": "04:05",
@@ -1106,6 +1145,7 @@
     "workDuration": "5:25"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:20\",\"distance\":\"42,2\",\"route\":\"9\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:47\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "06:20",
     "dispatcherTime": "05:50",
@@ -1120,6 +1160,7 @@
     "workDuration": "2:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"04:49\",\"distance\":\"3\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 2\",\"unboardTime\":\"05:05\"},{\"boardStation\":\"МС-0 \",\"boardTime\":\"05:58\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"06:56\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"07:19\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"08:17\"}]",
     "boardStation": "ДЕПО МС-0 ",
     "boardTime": "04:49",
     "dispatcherTime": "04:20",
@@ -1134,6 +1175,7 @@
     "workDuration": "4:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:43\",\"distance\":\"34\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:54\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "06:43",
     "dispatcherTime": "06:15",
@@ -1148,6 +1190,7 @@
     "workDuration": "2:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"04:57\",\"distance\":\"3\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 2\",\"unboardTime\":\"05:13\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"06:06\",\"distance\":\"46\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"08:05\"}]",
     "boardStation": "ДЕПО МС-0 ",
     "boardTime": "04:57",
     "dispatcherTime": "04:30",
@@ -1162,6 +1205,7 @@
     "workDuration": "4:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:18\",\"distance\":\"42,2\",\"route\":\"18\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:43\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "07:18",
     "dispatcherTime": "06:30",
@@ -1176,6 +1220,7 @@
     "workDuration": "2:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:03\",\"distance\":\"3\",\"route\":\"8\",\"unboardStation\":\"МС-0, ПЪТ 2\",\"unboardTime\":\"05:21\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"06:14\",\"distance\":\"46\",\"route\":\"8\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"08:11\"}]",
     "boardStation": "ДЕПО МС-0 ",
     "boardTime": "05:03",
     "dispatcherTime": "04:35",
@@ -1190,6 +1235,7 @@
     "workDuration": "4:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:13\",\"distance\":\"35\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:28\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:13",
     "dispatcherTime": "04:45",
@@ -1204,6 +1250,7 @@
     "workDuration": "2:25"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"04:20\",\"distance\":\"14,5\",\"route\":\"1\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"05:02\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"05:54\",\"distance\":\"46\",\"route\":\"10\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"07:53\"}]",
     "boardStation": "ДЕПО 212",
     "boardTime": "04:20",
     "dispatcherTime": "03:50",
@@ -1218,6 +1265,7 @@
     "workDuration": "4:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:20\",\"distance\":\"43,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:50\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:20",
     "dispatcherTime": "04:50",
@@ -1232,6 +1280,7 @@
     "workDuration": "2:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:15\",\"distance\":\"14,5\",\"route\":\"10\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"05:54\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"07:00\",\"distance\":\"46\",\"route\":\"11\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"08:59\"}]",
     "boardStation": "ДЕПО 212",
     "boardTime": "05:13",
     "dispatcherTime": "04:45",
@@ -1246,6 +1295,7 @@
     "workDuration": "4:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:40\",\"distance\":\"34\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:50\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "07:40",
     "dispatcherTime": "06:30",
@@ -1260,6 +1310,7 @@
     "workDuration": "3:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:21\",\"distance\":\"37,5\",\"route\":\"11\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"07:00\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"07:53\",\"distance\":\"23\",\"route\":\"10\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"08:53\"}]",
     "boardStation": "ДЕПО 212",
     "boardTime": "05:21",
     "dispatcherTime": "04:50",
@@ -1274,6 +1325,7 @@
     "workDuration": "4:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:05\",\"distance\":\"43,2\",\"route\":\"11\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:35\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:05",
     "dispatcherTime": "04:35",
@@ -1288,6 +1340,7 @@
     "workDuration": "2:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"08:59\",\"distance\":\"46\",\"route\":\"11\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"10:57\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"11:45\",\"distance\":\"46\",\"route\":\"10\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"13:37\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"14:41\",\"distance\":\"46\",\"route\":\"11\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"16:33\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"17:23\",\"distance\":\"46\",\"route\":\"10\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"19:15\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "08:59",
     "dispatcherTime": "08:30",
@@ -1302,6 +1355,7 @@
     "workDuration": "10:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:43\",\"distance\":\"34,2\",\"route\":\"18/22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:58\"},{\"boardStation\":\"МС-1 \",\"boardTime\":\"10:52\",\"distance\":\"42,2\",\"route\":\"11\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:16\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:04\",\"distance\":\"42,2\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:28\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:34\",\"distance\":\"68\",\"route\":\"20\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:58\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:43",
     "dispatcherTime": "08:10",
@@ -1316,6 +1370,7 @@
     "workDuration": "10:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"05:22\",\"distance\":\"23\",\"route\":\"5\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"06:16\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"07:12\",\"distance\":\"46\",\"route\":\"9\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"09:11\"}]",
     "boardStation": "ДЕПО 212",
     "boardTime": "05:22",
     "dispatcherTime": "04:10",
@@ -1330,6 +1385,7 @@
     "workDuration": "5:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:35\",\"distance\":\"42,2\",\"route\":\"11\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:01\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "06:35",
     "dispatcherTime": "05:40",
@@ -1344,6 +1400,7 @@
     "workDuration": "3:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"04:40\",\"distance\":\"14,5\",\"route\":\"5\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"05:22\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"06:19\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"08:17\"}]",
     "boardStation": "ДЕПО 212",
     "boardTime": "04:40",
     "dispatcherTime": "04:10",
@@ -1358,6 +1415,7 @@
     "workDuration": "4:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:28\",\"distance\":\"34\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:40\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "06:28",
     "dispatcherTime": "05:30",
@@ -1372,6 +1430,7 @@
     "workDuration": "2:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:00\",\"distance\":\"43,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:32\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:31\",\"distance\":\"34\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:43\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:00",
     "dispatcherTime": "04:30",
@@ -1386,6 +1445,7 @@
     "workDuration": "4:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:57\",\"distance\":\"34\",\"route\":\"19\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:08\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "06:57",
     "dispatcherTime": "06:30",
@@ -1400,6 +1460,7 @@
     "workDuration": "2:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:32\",\"distance\":\"68\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:55\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "06:32",
     "dispatcherTime": "06:00",
@@ -1414,6 +1475,7 @@
     "workDuration": "3:35"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:11\",\"distance\":\"34\",\"route\":\"15\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:22\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "07:11",
     "dispatcherTime": "06:30",
@@ -1428,6 +1490,7 @@
     "workDuration": "2:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:34\",\"distance\":\"43,2\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:09\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:46\",\"distance\":\"42,2\",\"route\":\"13\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:16\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:34",
     "dispatcherTime": "05:05",
@@ -1442,6 +1505,7 @@
     "workDuration": "4:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:28\",\"distance\":\"35\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:43\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:25\",\"distance\":\"34\",\"route\":\"10\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:36\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:28",
     "dispatcherTime": "05:00",
@@ -1456,6 +1520,7 @@
     "workDuration": "4:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:06\",\"distance\":\"35\",\"route\":\"15\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:26\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:56\",\"distance\":\"34\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:07\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:06",
     "dispatcherTime": "04:35",
@@ -1470,6 +1535,7 @@
     "workDuration": "4:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:13\",\"distance\":\"34\",\"route\":\"10\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:25\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "06:13",
     "dispatcherTime": "05:35",
@@ -1484,6 +1550,7 @@
     "workDuration": "2:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"07:18\",\"distance\":\"43,2\",\"route\":\"38\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:52\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "07:18",
     "dispatcherTime": "06:50",
@@ -1498,6 +1565,7 @@
     "workDuration": "2:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:33\",\"distance\":\"42,2\",\"route\":\"13\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:58\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "07:33",
     "dispatcherTime": "06:30",
@@ -1512,6 +1580,7 @@
     "workDuration": "3:10"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"07:12\",\"distance\":\"43,2\",\"route\":\"37\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:46\"}]",
     "boardStation": "ДЕПО",
     "boardTime": "07:12",
     "dispatcherTime": "06:40",
@@ -1526,6 +1595,7 @@
     "workDuration": "2:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:50\",\"distance\":\"42,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:15\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "06:50",
     "dispatcherTime": "05:40",
@@ -1540,6 +1610,7 @@
     "workDuration": "3:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"07:03\",\"distance\":\"35\",\"route\":\"36\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:19\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "07:03",
     "dispatcherTime": "06:30",
@@ -1554,6 +1625,7 @@
     "workDuration": "2:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"04:44\",\"distance\":\"3\",\"route\":\"2\",\"unboardStation\":\"МС-0, ТУПИК \",\"unboardTime\":\"05:00\"},{\"boardStation\":\"МС-0, ПЪТ 2\",\"boardTime\":\"06:48\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"07:48\"}]",
     "boardStation": "ДЕПО МС-0 ",
     "boardTime": "04:44",
     "dispatcherTime": "04:15",
@@ -1568,6 +1640,7 @@
     "workDuration": "4:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"06:54\",\"distance\":\"43,2\",\"route\":\"35\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:28\"}]",
     "boardStation": "ДЕПО",
     "boardTime": "06:54",
     "dispatcherTime": "06:25",
@@ -1582,6 +1655,7 @@
     "workDuration": "2:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"04:39\",\"distance\":\"3\",\"route\":\"3\",\"unboardStation\":\"МС-0, ТУПИК \",\"unboardTime\":\"04:55\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"06:36\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"08:35\"}]",
     "boardStation": "ДЕПО МС-0 ",
     "boardTime": "04:39",
     "dispatcherTime": "04:10",
@@ -1596,6 +1670,7 @@
     "workDuration": "5:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"09:53\",\"distance\":\"46\",\"route\":\"10\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"11:45\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"12:49\",\"distance\":\"46\",\"route\":\"11\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"14:41\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"15:29\",\"distance\":\"46\",\"route\":\"10\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"17:23\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"18:26\",\"distance\":\"34,5\",\"route\":\"11\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"19:50\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "09:53",
     "dispatcherTime": "09:20",
@@ -1610,6 +1685,7 @@
     "workDuration": "10:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:58\",\"distance\":\"34,2\",\"route\":\"13/23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:10\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:16\",\"distance\":\"42,2\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:40\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:10\",\"distance\":\"34\",\"route\":\"20\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:22\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:28\",\"distance\":\"42,2\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:52\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:46\",\"distance\":\"34\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:58\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:58",
     "dispatcherTime": "08:20",
@@ -1624,6 +1700,7 @@
     "workDuration": "11:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"06:48\",\"distance\":\"43,2\",\"route\":\"34\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:22\"}]",
     "boardStation": "ДЕПО",
     "boardTime": "06:48",
     "dispatcherTime": "06:20",
@@ -1638,6 +1715,7 @@
     "workDuration": "2:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:24\",\"distance\":\"26\",\"route\":\"5\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"06:36\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"07:48\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"08:46\"}]",
     "boardStation": "ДЕПО МС-0 ",
     "boardTime": "05:24",
     "dispatcherTime": "04:55",
@@ -1652,6 +1730,7 @@
     "workDuration": "4:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"06:42\",\"distance\":\"43,2\",\"route\":\"33\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:16\"}]",
     "boardStation": "ДЕПО",
     "boardTime": "06:42",
     "dispatcherTime": "06:10",
@@ -1666,6 +1745,7 @@
     "workDuration": "2:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:00\",\"distance\":\"37,5\",\"route\":\"7\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"06:42\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:00",
     "dispatcherTime": "04:30",
@@ -1680,6 +1760,7 @@
     "workDuration": "3:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"06:36\",\"distance\":\"43,2\",\"route\":\"32\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:10\"}]",
     "boardStation": "ДЕПО",
     "boardTime": "06:36",
     "dispatcherTime": "06:05",
@@ -1694,6 +1775,7 @@
     "workDuration": "2:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:09\",\"distance\":\"14,5\",\"route\":\"4\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"05:54\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"06:42\",\"distance\":\"46\",\"route\":\"7\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"08:39\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:09",
     "dispatcherTime": "04:40",
@@ -1708,6 +1790,7 @@
     "workDuration": "4:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"06:30\",\"distance\":\"43,2\",\"route\":\"31\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:04\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "06:30",
     "dispatcherTime": "06:00",
@@ -1722,6 +1805,7 @@
     "workDuration": "2:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"05:30\",\"distance\":\"23\",\"route\":\"8\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"06:30\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"07:30\",\"distance\":\"23\",\"route\":\"8\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"08:28\"}]",
     "boardStation": "ДЕПО МС-212 ",
     "boardTime": "05:30",
     "dispatcherTime": "04:10",
@@ -1736,6 +1820,7 @@
     "workDuration": "4:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"06:24\",\"distance\":\"43,2\",\"route\":\"30\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:58\"}]",
     "boardStation": "ДЕПО",
     "boardTime": "06:24",
     "dispatcherTime": "05:55",
@@ -1750,6 +1835,7 @@
     "workDuration": "2:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"04:48\",\"distance\":\"14,5\",\"route\":\"8\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"05:30\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"05:54\",\"distance\":\"46\",\"route\":\"4\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"07:54\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "04:48",
     "dispatcherTime": "04:10",
@@ -1764,6 +1850,7 @@
     "workDuration": "4:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"06:18\",\"distance\":\"43,2\",\"route\":\"29\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:52\"}]",
     "boardStation": "ДЕПО",
     "boardTime": "06:18",
     "dispatcherTime": "05:50",
@@ -1778,6 +1865,7 @@
     "workDuration": "2:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"04:34\",\"distance\":\"14,5\",\"route\":\"1\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"05:14\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"06:30\",\"distance\":\"23\",\"route\":\"8\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"07:30\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "04:34",
     "dispatcherTime": "04:05",
@@ -1792,6 +1880,7 @@
     "workDuration": "4:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:01\",\"distance\":\"68\",\"route\":\"20\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:25\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "06:01",
     "dispatcherTime": "05:30",
@@ -1806,6 +1895,7 @@
     "workDuration": "3:35"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:47\",\"distance\":\"42,2\",\"route\":\"9\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:12\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "07:47",
     "dispatcherTime": "06:45",
@@ -1820,6 +1910,7 @@
     "workDuration": "3:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:18\",\"distance\":\"35\",\"route\":\"18\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:38\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:27\",\"distance\":\"42,2\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:58\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:18",
     "dispatcherTime": "04:50",
@@ -1834,6 +1925,7 @@
     "workDuration": "4:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:54\",\"distance\":\"34\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:04\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "07:54",
     "dispatcherTime": "06:45",
@@ -1848,6 +1940,7 @@
     "workDuration": "3:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:09\",\"distance\":\"68\",\"route\":\"19\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:37\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "06:09",
     "dispatcherTime": "05:40",
@@ -1862,6 +1955,7 @@
     "workDuration": "3:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:09\",\"distance\":\"43,2\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:44\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:34\",\"distance\":\"42,2\",\"route\":\"27\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:04\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:09",
     "dispatcherTime": "04:40",
@@ -1876,6 +1970,7 @@
     "workDuration": "5:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:40\",\"distance\":\"42,2\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:10\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:15\",\"distance\":\"68\",\"route\":\"15\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:39\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:00\",\"distance\":\"68\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:24\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:40",
     "dispatcherTime": "08:10",
@@ -1890,20 +1985,7 @@
     "workDuration": "9:55"
   },
   {
-    "boardStation": "МС-1 ",
-    "boardTime": "09:16",
-    "dispatcherTime": "08:45",
-    "distance": "195,6",
-    "doctorTime": "08:15",
-    "endTime": "19:35",
-    "id": 63,
-    "isHoliday": false,
-    "name": "СМ-13",
-    "unboardStation": "МС-1 ",
-    "unboardTime": "19:25",
-    "workDuration": "11:20"
-  },
-  {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"08:59\",\"distance\":\"43,2\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:28\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:40\",\"distance\":\"42,2\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:04\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:58\",\"distance\":\"34\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:10\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:40\",\"distance\":\"42,2\",\"route\":\"27\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:04\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:10\",\"distance\":\"34\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:22\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "08:59",
     "dispatcherTime": "08:30",
@@ -1918,6 +2000,7 @@
     "workDuration": "11:35"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:43\",\"distance\":\"77,2\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:31\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:43",
     "dispatcherTime": "05:15",
@@ -1932,6 +2015,7 @@
     "workDuration": "3:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:09\",\"distance\":\"42,2\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:40\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "07:09",
     "dispatcherTime": "06:30",
@@ -1946,6 +2030,7 @@
     "workDuration": "2:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"05:43\",\"distance\":\"69\",\"route\":\"22\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"08:17\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "05:43",
     "dispatcherTime": "05:10",
@@ -1960,6 +2045,7 @@
     "workDuration": "4:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:30\",\"distance\":\"69\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:01\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:30",
     "dispatcherTime": "05:00",
@@ -1974,6 +2060,7 @@
     "workDuration": "3:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:52\",\"distance\":\"43,2\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:27\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:49\",\"distance\":\"34\",\"route\":\"18\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:01\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:52",
     "dispatcherTime": "05:10",
@@ -1988,6 +2075,7 @@
     "workDuration": "4:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:26\",\"distance\":\"68\",\"route\":\"15\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:49\"}]",
     "boardStation": "ДЕПО МС-1 ",
     "boardTime": "06:26",
     "dispatcherTime": "05:55",
@@ -2002,6 +2090,7 @@
     "workDuration": "3:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"06:01\",\"distance\":\"43,2\",\"route\":\"27\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:34\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "06:01",
     "dispatcherTime": "05:30",
@@ -2016,6 +2105,7 @@
     "workDuration": "2:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"06:08\",\"distance\":\"43,2\",\"route\":\"28\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:40\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:10\",\"distance\":\"42,2\",\"route\":\"32\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:40\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "06:08",
     "dispatcherTime": "05:40",
@@ -2030,6 +2120,7 @@
     "workDuration": "4:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"05:24\",\"distance\":\"43,2\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:56\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:40\",\"distance\":\"42,2\",\"route\":\"28\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:10\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "05:24",
     "dispatcherTime": "04:55",
@@ -2044,6 +2135,7 @@
     "workDuration": "4:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:49\",\"distance\":\"68\",\"route\":\"15\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:15\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:48\",\"distance\":\"\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:00\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:03\",\"distance\":\"68\",\"route\":\"15\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:29\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:49",
     "dispatcherTime": "08:20",
@@ -2058,6 +2150,7 @@
     "workDuration": "10:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:26\",\"distance\":\"42,2\",\"route\":\"11\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:52\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:52\",\"distance\":\"42,2\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:16\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:52\",\"distance\":\"42,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:16\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:40\",\"distance\":\"42,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:04\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:26",
     "dispatcherTime": "08:55",
@@ -2072,6 +2165,7 @@
     "workDuration": "9:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:10\",\"distance\":\"68\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:36\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:39\",\"distance\":\"68\",\"route\":\"15\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:03\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:57\",\"distance\":\"34\",\"route\":\"28\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:09\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "10:10",
     "dispatcherTime": "09:40",
@@ -2086,6 +2180,7 @@
     "workDuration": "10:10"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:32\",\"distance\":\"68\",\"route\":\"20\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:58\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:16\",\"distance\":\"42,2\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:40\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:52\",\"distance\":\"42,2\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:16\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:16\",\"distance\":\"42,2\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:40\"}]",
     "boardStation": " МС-1 ",
     "boardTime": "09:32",
     "dispatcherTime": "09:00",
@@ -2100,6 +2195,7 @@
     "workDuration": "11:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:22\",\"distance\":\"42,2\",\"route\":\"34\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:52\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:56\",\"distance\":\"68\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:21\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:42\",\"distance\":\"68\",\"route\":\"34\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:06\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:22",
     "dispatcherTime": "07:50",
@@ -2114,6 +2210,7 @@
     "workDuration": "9:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:40\",\"distance\":\"42,2\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:04\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:40\",\"distance\":\"42,2\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:04\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:22\",\"distance\":\"68\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:46\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:52\",\"distance\":\"43,2\",\"route\":\"24\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"20:20\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "10:40",
     "dispatcherTime": "10:10",
@@ -2128,6 +2225,7 @@
     "workDuration": "11:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:52\",\"distance\":\"68\",\"route\":\"34\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:18\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:21\",\"distance\":\"68\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:45\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:06\",\"distance\":\"34\",\"route\":\"34\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:21\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:52",
     "dispatcherTime": "09:20",
@@ -2142,6 +2240,7 @@
     "workDuration": "9:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:16\",\"distance\":\"42,2\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:40\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:04\",\"distance\":\"42,2\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:28\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:04\",\"distance\":\"42,2\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:28\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:22\",\"distance\":\"34\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:34\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "10:16",
     "dispatcherTime": "09:45",
@@ -2156,6 +2255,7 @@
     "workDuration": "10:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:31\",\"distance\":\"68\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:56\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:30\",\"distance\":\"34\",\"route\":\"34\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:42\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:45\",\"distance\":\"76,2\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:25\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:31",
     "dispatcherTime": "08:00",
@@ -2170,6 +2270,7 @@
     "workDuration": "11:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:40\",\"distance\":\"42,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:04\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:58\",\"distance\":\"34\",\"route\":\"20\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:10\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:40\",\"distance\":\"42,2\",\"route\":\"11\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:04\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:58\",\"distance\":\"68\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:22\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:40",
     "dispatcherTime": "09:10",
@@ -2184,6 +2285,7 @@
     "workDuration": "9:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:55\",\"distance\":\"68\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:19\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:51\",\"distance\":\"34\",\"route\":\"39\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:03\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:09\",\"distance\":\"68\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:33\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "07:55",
     "dispatcherTime": "07:30",
@@ -2198,6 +2300,7 @@
     "workDuration": "10:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:22\",\"distance\":\"34\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:34\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:16\",\"distance\":\"42,2\",\"route\":\"11\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:40\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:22\",\"distance\":\"34\",\"route\":\"20\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:34\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:16\",\"distance\":\"42,2\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:40\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:34\",\"distance\":\"34\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:46\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "10:22",
     "dispatcherTime": "09:50",
@@ -2212,6 +2315,7 @@
     "workDuration": "10:35"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"08:53\",\"distance\":\"46\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"10:53\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"12:05\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"13:01\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"13:57\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"14:53\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"15:49\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"16:45\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"17:37\",\"distance\":\"46\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"19:29\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "08:53",
     "dispatcherTime": "07:55",
@@ -2226,6 +2330,7 @@
     "workDuration": "11:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:36\",\"distance\":\"42,2\",\"route\":\"10\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:04\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:46\",\"distance\":\"68\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:10\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:16\",\"distance\":\"42,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:40\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:28\",\"distance\":\"42,2\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:52\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:36",
     "dispatcherTime": "08:05",
@@ -2240,6 +2345,7 @@
     "workDuration": "11:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:58\",\"distance\":\"76,2\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:42\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:45\",\"distance\":\"68\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:09\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:30\",\"distance\":\"42,2\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:01\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:58",
     "dispatcherTime": "08:30",
@@ -2254,6 +2360,7 @@
     "workDuration": "10:10"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:08\",\"distance\":\"68,2\",\"route\":\"19/26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:34\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:28\",\"distance\":\"42,2\",\"route\":\"27\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:52\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:46\",\"distance\":\"68\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:10\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:08",
     "dispatcherTime": "07:30",
@@ -2268,6 +2375,7 @@
     "workDuration": "9:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"19:50\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"20:50\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"21:23\",\"distance\":\"46\",\"route\":\"9\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"23:21\"},{\"boardStation\":\"МС-212, ПЪТ 1\",\"boardTime\":\"05:18\",\"distance\":\"46\",\"route\":\"9\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"07:12\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "19:50",
     "dispatcherTime": "19:20",
@@ -2282,6 +2390,7 @@
     "workDuration": "12:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"19:50\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"20:50\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"21:23\",\"distance\":\"46\",\"route\":\"9\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"23:21\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"05:25\",\"distance\":\"34,5\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"06:48\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "19:50",
     "dispatcherTime": "19:20",
@@ -2296,6 +2405,7 @@
     "workDuration": "11:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"20:19\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"21:23\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"22:23\",\"distance\":\"46\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"00:20\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"05:18\",\"distance\":\"46\",\"route\":\"9\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"07:12\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "20:19",
     "dispatcherTime": "19:50",
@@ -2310,6 +2420,7 @@
     "workDuration": "12:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"20:19\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"21:23\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"22:23\",\"distance\":\"46\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"00:20\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"05:25\",\"distance\":\"34,5\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"06:48\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "20:19",
     "dispatcherTime": "19:50",
@@ -2324,6 +2435,7 @@
     "workDuration": "11:10"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:07\",\"distance\":\"34\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:19\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:51\",\"distance\":\"34,2\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 1\",\"unboardTime\":\"00:09\"},{\"boardStation\":\"МС-1, ПЪТ 1\",\"boardTime\":\"04:55\",\"distance\":\"76,2\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:31\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "21:07",
     "dispatcherTime": "20:40",
@@ -2338,6 +2450,7 @@
     "workDuration": "11:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:07\",\"distance\":\"34\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:19\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:51\",\"distance\":\"34,2\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 1\",\"unboardTime\":\"00:09\"},{\"boardStation\":\"МС-1, ПЪТ 1\",\"boardTime\":\"04:56\",\"distance\":\"42,2\",\"route\":\"9\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:20\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "21:07",
     "dispatcherTime": "20:40",
@@ -2352,6 +2465,7 @@
     "workDuration": "10:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:46\",\"distance\":\"42,2\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:12\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:41\",\"distance\":\"42,4\",\"route\":\"9\",\"unboardStation\":\"МС-1, ПЪТ 1\",\"unboardTime\":\"00:17\"},{\"boardStation\":\"МС-1, ПЪТ 1\",\"boardTime\":\"04:55\",\"distance\":\"76,2\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:31\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "20:46",
     "dispatcherTime": "20:20",
@@ -2366,6 +2480,7 @@
     "workDuration": "11:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:46\",\"distance\":\"42,2\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:12\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:41\",\"distance\":\"42,4\",\"route\":\"9\",\"unboardStation\":\"МС-1, ПЪТ 1\",\"unboardTime\":\"00:17\"},{\"boardStation\":\"МС-1, ПЪТ 1\",\"boardTime\":\"04:56\",\"distance\":\"42,2\",\"route\":\"9\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:20\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "20:46",
     "dispatcherTime": "20:20",
@@ -2380,6 +2495,7 @@
     "workDuration": "10:10"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"22:40\",\"distance\":\"43,4\",\"route\":\"13\",\"unboardStation\":\"МС-1, ПЪТ 1\",\"unboardTime\":\"00:18\"},{\"boardStation\":\"МС-1, ПЪТ 1\",\"boardTime\":\"05:03\",\"distance\":\"76,2\",\"route\":\"13\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:46\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "22:40",
     "dispatcherTime": "22:00",
@@ -2394,6 +2510,7 @@
     "workDuration": "10:35"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"22:40\",\"distance\":\"43,4\",\"route\":\"13\",\"unboardStation\":\"МС-1, ПЪТ 1\",\"unboardTime\":\"00:18\"},{\"boardStation\":\"МС-1, ПЪТ 1\",\"boardTime\":\"05:05\",\"distance\":\"34\",\"route\":\"10\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:13\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "22:40",
     "dispatcherTime": "22:00",
@@ -2408,6 +2525,7 @@
     "workDuration": "9:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:58\",\"distance\":\"42,2\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:26\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:56\",\"distance\":\"42,4\",\"route\":\"10\",\"unboardStation\":\"МС-1, ПЪТ 1\",\"unboardTime\":\"00:31\"},{\"boardStation\":\"МС-1, ПЪТ 1\",\"boardTime\":\"05:03\",\"distance\":\"76,2\",\"route\":\"13\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:46\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "20:58",
     "dispatcherTime": "20:30",
@@ -2422,6 +2540,7 @@
     "workDuration": "11:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:58\",\"distance\":\"42,2\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:26\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:56\",\"distance\":\"42,4\",\"route\":\"10\",\"unboardStation\":\"МС-1, ПЪТ 1\",\"unboardTime\":\"00:31\"},{\"boardStation\":\"МС-1, ПЪТ 1\",\"boardTime\":\"05:05\",\"distance\":\"34\",\"route\":\"10\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:13\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "20:58",
     "dispatcherTime": "20:30",
@@ -2436,6 +2555,7 @@
     "workDuration": "10:25"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:46\",\"distance\":\"34\",\"route\":\"34\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:58\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"23:01\",\"distance\":\"19,9\",\"route\":\"17\",\"unboardStation\":\"МС-13, ПЪТ 2\",\"unboardTime\":\"23:53\"},{\"boardStation\":\"МС-13, ПЪТ 2\",\"boardTime\":\"05:25\",\"distance\":\"48,1\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:04\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "20:46",
     "dispatcherTime": "20:15",
@@ -2450,6 +2570,7 @@
     "workDuration": "11:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:46\",\"distance\":\"34\",\"route\":\"34\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:58\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"23:01\",\"distance\":\"19,9\",\"route\":\"17\",\"unboardStation\":\"МС-13, ПЪТ 2\",\"unboardTime\":\"23:53\"},{\"boardStation\":\"МС-13, ПЪТ 2\",\"boardTime\":\"05:20\",\"distance\":\"48,1\",\"route\":\"19\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:57\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "20:46",
     "dispatcherTime": "20:15",
@@ -2464,6 +2585,7 @@
     "workDuration": "11:25"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:37\",\"distance\":\"\",\"route\":\"20\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:49\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"23:19\",\"distance\":\"19,9\",\"route\":\"19\",\"unboardStation\":\"МС-13, ПЪТ 2\",\"unboardTime\":\"00:17\"},{\"boardStation\":\"МС-13, ПЪТ 2\",\"boardTime\":\"05:25\",\"distance\":\"48,1\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:04\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "21:37",
     "dispatcherTime": "21:10",
@@ -2478,6 +2600,7 @@
     "workDuration": "10:35"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:37\",\"distance\":\"34\",\"route\":\"20\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:49\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"23:19\",\"distance\":\"19,9\",\"route\":\"19\",\"unboardStation\":\"МС-13, ПЪТ 2\",\"unboardTime\":\"00:17\"},{\"boardStation\":\"МС-13, ПЪТ 2\",\"boardTime\":\"05:20\",\"distance\":\"48,1\",\"route\":\"19\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:57\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "21:37",
     "dispatcherTime": "21:10",
@@ -2492,6 +2615,7 @@
     "workDuration": "10:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"21:19\",\"distance\":\"64,3\",\"route\":\"19\",\"unboardStation\":\"МС-23\",\"unboardTime\":\"23:43\"},{\"boardStation\":\"МС-23\",\"boardTime\":\"05:27\",\"distance\":\"21,1\",\"route\":\"19\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:09\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:38\",\"distance\":\"34\",\"route\":\"18\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:49\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "21:19",
     "dispatcherTime": "20:50",
@@ -2506,6 +2630,7 @@
     "workDuration": "11:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"21:19\",\"distance\":\"64,3\",\"route\":\"19\",\"unboardStation\":\"МС-23\",\"unboardTime\":\"23:43\"},{\"boardStation\":\"МС-23\",\"boardTime\":\"05:25\",\"distance\":\"63,3\",\"route\":\"13\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:33\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "21:19",
     "dispatcherTime": "20:50",
@@ -2520,6 +2645,7 @@
     "workDuration": "11:25"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:44\",\"distance\":\"63,3\",\"route\":\"13\",\"unboardStation\":\"МС-23 \",\"unboardTime\":\"23:59\"},{\"boardStation\":\"МС-23 \",\"boardTime\":\"05:27\",\"distance\":\"21,1\",\"route\":\"19\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:09\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:38\",\"distance\":\"34\",\"route\":\"18\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:49\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "21:44",
     "dispatcherTime": "21:15",
@@ -2534,6 +2660,7 @@
     "workDuration": "11:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:44\",\"distance\":\"63,3\",\"route\":\"13\",\"unboardStation\":\"МС-23\",\"unboardTime\":\"23:59\"},{\"boardStation\":\"МС-23\",\"boardTime\":\"05:25\",\"distance\":\"63,3\",\"route\":\"13\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:33\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "21:44",
     "dispatcherTime": "21:15",
@@ -2548,6 +2675,7 @@
     "workDuration": "11:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"22:04\",\"distance\":\"52\",\"route\":\"20\",\"unboardStation\":\"МС-16\",\"unboardTime\":\"23:57\"},{\"boardStation\":\"МС-16\",\"boardTime\":\"05:27\",\"distance\":\"17\",\"route\":\"20\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:01\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:04\",\"distance\":\"42,2\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:34\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "22:04",
     "dispatcherTime": "21:35",
@@ -2562,6 +2690,7 @@
     "workDuration": "11:25"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"22:04\",\"distance\":\"52\",\"route\":\"20\",\"unboardStation\":\"МС-16\",\"unboardTime\":\"23:57\"},{\"boardStation\":\"МС-16\",\"boardTime\":\"05:27\",\"distance\":\"51\",\"route\":\"15\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:11\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "22:04",
     "dispatcherTime": "21:35",
@@ -2576,6 +2705,7 @@
     "workDuration": "10:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:19\",\"distance\":\"51\",\"route\":\"15\",\"unboardStation\":\"МС-16\",\"unboardTime\":\"00:10\"},{\"boardStation\":\"МС-16 \",\"boardTime\":\"05:27\",\"distance\":\"17\",\"route\":\"20\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"06:01\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:04\",\"distance\":\"42,2\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"08:34\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "22:19",
     "dispatcherTime": "21:50",
@@ -2590,6 +2720,7 @@
     "workDuration": "12:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:19\",\"distance\":\"51\",\"route\":\"15\",\"unboardStation\":\"МС-16\",\"unboardTime\":\"00:10\"},{\"boardStation\":\"МС-16\",\"boardTime\":\"05:27\",\"distance\":\"51\",\"route\":\"15\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:11\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "22:19",
     "dispatcherTime": "21:50",
@@ -2604,6 +2735,7 @@
     "workDuration": "10:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:30\",\"distance\":\"37\",\"route\":\"22\",\"unboardStation\":\"МС-5, ПЪТ 2\",\"unboardTime\":\"23:47\"},{\"boardStation\":\"МС-5, ПЪТ 2\",\"boardTime\":\"05:34\",\"distance\":\"5,2\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"05:43\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:44\",\"distance\":\"34\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:55\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "22:30",
     "dispatcherTime": "22:00",
@@ -2618,6 +2750,7 @@
     "workDuration": "10:35"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:30\",\"distance\":\"37\",\"route\":\"22\",\"unboardStation\":\"МС-5, ПЪТ 2\",\"unboardTime\":\"23:47\"},{\"boardStation\":\"МС-5, ПЪТ 2\",\"boardTime\":\"05:44\",\"distance\":\"47,4\",\"route\":\"18\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:18\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "22:30",
     "dispatcherTime": "22:00",
@@ -2632,6 +2765,7 @@
     "workDuration": "10:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"21:49\",\"distance\":\"63,8\",\"route\":\"18\",\"unboardStation\":\"МС-5, ПЪТ 2\",\"unboardTime\":\"00:10\"},{\"boardStation\":\"МС-5, ПЪТ 2\",\"boardTime\":\"05:34\",\"distance\":\"5,2\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"05:43\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"06:44\",\"distance\":\"34\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:55\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "21:49",
     "dispatcherTime": "21:20",
@@ -2646,6 +2780,7 @@
     "workDuration": "11:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"21:49\",\"distance\":\"63,8\",\"route\":\"18\",\"unboardStation\":\"МС-5, ПЪТ 2\",\"unboardTime\":\"00:10\"},{\"boardStation\":\"МС-5, ПЪТ 2\",\"boardTime\":\"05:44\",\"distance\":\"47,4\",\"route\":\"18\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"07:18\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "21:49",
     "dispatcherTime": "21:20",
@@ -2660,8 +2795,9 @@
     "workDuration": "10:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"19:29\",\"distance\":\"46\",\"route\":\"9\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"21:23\"},{\"boardStation\":\"МС-212 \",\"boardTime\":\"22:48\",\"distance\":\"37,5\",\"route\":\"6\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"00:30\"}]",
     "boardStation": "МС-212 ",
-    "boardTime": "19:20",
+    "boardTime": "19:29",
     "dispatcherTime": "19:00",
     "distance": "83,5",
     "doctorTime": "19:00",
@@ -2674,6 +2810,7 @@
     "workDuration": "5:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:40\",\"distance\":\"43,2\",\"route\":\"12\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"20:08\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "18:40",
     "dispatcherTime": "18:10",
@@ -2688,6 +2825,7 @@
     "workDuration": "4:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"19:22\",\"distance\":\"11,5\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"19:50\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"20:50\",\"distance\":\"46\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"22:48\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"23:21\",\"distance\":\"14,5\",\"route\":\"9\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"00:06\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "19:22",
     "dispatcherTime": "18:20",
@@ -2702,6 +2840,7 @@
     "workDuration": "5:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:28\",\"distance\":\"43,2\",\"route\":\"14\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"20:56\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:28",
     "dispatcherTime": "19:00",
@@ -2716,6 +2855,7 @@
     "workDuration": "3:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:19\",\"distance\":\"68\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:45\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:18\",\"distance\":\"34\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:30\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:33\",\"distance\":\"69\",\"route\":\"16\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"20:01\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "10:19",
     "dispatcherTime": "09:50",
@@ -2730,6 +2870,7 @@
     "workDuration": "11:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:52\",\"distance\":\"42,2\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:16\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:22\",\"distance\":\"34\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:34\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:16\",\"distance\":\"42,2\",\"route\":\"27\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:40\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:22\",\"distance\":\"34\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:34\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:28\",\"distance\":\"42,2\",\"route\":\"27\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:52\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:52",
     "dispatcherTime": "09:20",
@@ -2744,6 +2885,7 @@
     "workDuration": "11:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"19:36\",\"distance\":\"23\",\"route\":\"5\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"20:33\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"21:15\",\"distance\":\"46\",\"route\":\"10\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"23:13\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"00:26\",\"distance\":\"14,5\",\"route\":\"5\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"01:14\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "19:36",
     "dispatcherTime": "19:05",
@@ -2758,6 +2900,7 @@
     "workDuration": "6:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:46\",\"distance\":\"35\",\"route\":\"16\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"20:02\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "18:46",
     "dispatcherTime": "18:20",
@@ -2772,6 +2915,7 @@
     "workDuration": "4:10"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"19:15\",\"distance\":\"46\",\"route\":\"10\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"21:15\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"22:31\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"00:26\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "19:15",
     "dispatcherTime": "18:45",
@@ -2786,6 +2930,7 @@
     "workDuration": "6:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:22\",\"distance\":\"35\",\"route\":\"17\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"20:38\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:22",
     "dispatcherTime": "18:50",
@@ -2800,6 +2945,7 @@
     "workDuration": "3:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"20:33\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"22:31\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"23:13\",\"distance\":\"37,5\",\"route\":\"10\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"01:03\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "20:33",
     "dispatcherTime": "20:00",
@@ -2814,6 +2960,7 @@
     "workDuration": "5:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:40\",\"distance\":\"43,2\",\"route\":\"21\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"21:09\"}]",
     "boardStation": "МС-1",
     "boardTime": "19:40",
     "dispatcherTime": "19:10",
@@ -2828,6 +2975,7 @@
     "workDuration": "3:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0 \",\"boardTime\":\"19:29\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"20:26\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"21:27\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"22:26\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"23:25\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"00:22\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"01:15\",\"distance\":\"3\",\"route\":\"11\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"01:36\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "19:29",
     "dispatcherTime": "18:30",
@@ -2842,6 +2990,7 @@
     "workDuration": "7:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:52\",\"distance\":\"43,2\",\"route\":\"27\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"21:21\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:52",
     "dispatcherTime": "19:20",
@@ -2856,6 +3005,7 @@
     "workDuration": "3:10"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"20:26\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"21:27\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"22:26\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"23:25\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"00:22\",\"distance\":\"3\",\"route\":\"7\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"00:41\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "20:26",
     "dispatcherTime": "19:30",
@@ -2870,6 +3020,7 @@
     "workDuration": "5:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:46\",\"distance\":\"34\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:58\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:26\",\"distance\":\"43,2\",\"route\":\"23\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"00:00\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:46",
     "dispatcherTime": "19:20",
@@ -2884,6 +3035,7 @@
     "workDuration": "5:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"19:15\",\"distance\":\"23\",\"route\":\"3\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"20:11\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"21:10\",\"distance\":\"23\",\"route\":\"3\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"22:09\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"23:08\",\"distance\":\"23\",\"route\":\"3\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"00:05\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"01:05\",\"distance\":\"3\",\"route\":\"3\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"01:25\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "19:15",
     "dispatcherTime": "18:15",
@@ -2898,6 +3050,7 @@
     "workDuration": "7:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:04\",\"distance\":\"42,2\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:28\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:24\",\"distance\":\"34\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:34\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:04",
     "dispatcherTime": "18:35",
@@ -2912,6 +3065,7 @@
     "workDuration": "5:25"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0 \",\"boardTime\":\"20:11\",\"distance\":\"23\",\"route\":\"3\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"21:10\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"22:09\",\"distance\":\"23\",\"route\":\"3\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"23:08\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"00:05\",\"distance\":\"23\",\"route\":\"3\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"01:05\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"01:37\",\"distance\":\"3\",\"route\":\"8\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"01:58\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "20:11",
     "dispatcherTime": "19:10",
@@ -2926,6 +3080,7 @@
     "workDuration": "7:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:16\",\"distance\":\"42,2\",\"route\":\"11\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:40\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:10\",\"distance\":\"42,2\",\"route\":\"9\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:41\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:16",
     "dispatcherTime": "18:45",
@@ -2940,6 +3095,7 @@
     "workDuration": "5:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"18:40\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"19:36\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"20:35\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"21:35\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"22:34\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"23:33\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"00:30\",\"distance\":\"3\",\"route\":\"2\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"00:52\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "18:40",
     "dispatcherTime": "17:40",
@@ -2954,6 +3110,7 @@
     "workDuration": "7:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:04\",\"distance\":\"42,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:28\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:40\",\"distance\":\"35\",\"route\":\"11\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"21:55\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "18:04",
     "dispatcherTime": "17:35",
@@ -2968,6 +3125,7 @@
     "workDuration": "5:10"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"19:36\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"20:35\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"21:35\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"22:34\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"23:33\",\"distance\":\"\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"00:30\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"01:26\",\"distance\":\"3\",\"route\":\"4\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"01:47\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "19:36",
     "dispatcherTime": "18:35",
@@ -2982,6 +3140,7 @@
     "workDuration": "7:35"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:30\",\"distance\":\"42,2\",\"route\":\"10\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:56\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "21:30",
     "dispatcherTime": "21:00",
@@ -2996,6 +3155,7 @@
     "workDuration": "3:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:57\",\"distance\":\"43,2\",\"route\":\"35\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"20:29\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "18:57",
     "dispatcherTime": "18:30",
@@ -3010,6 +3170,7 @@
     "workDuration": "4:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:10\",\"distance\":\"68\",\"route\":\"20\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:37\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:10",
     "dispatcherTime": "18:40",
@@ -3024,6 +3185,7 @@
     "workDuration": "3:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:43\",\"distance\":\"35\",\"route\":\"12\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"09:59\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:01\",\"distance\":\"42,2\",\"route\":\"36\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:31\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:07\",\"distance\":\"42,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:37\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:40\",\"distance\":\"42,2\",\"route\":\"32\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:10\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:41\",\"distance\":\"34\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:53\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:43",
     "dispatcherTime": "08:15",
@@ -3038,6 +3200,7 @@
     "workDuration": "11:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:01\",\"distance\":\"42,2\",\"route\":\"11\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:26\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:34\",\"distance\":\"34\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:46\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:28\",\"distance\":\"42,2\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:52\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:28\",\"distance\":\"42,2\",\"route\":\"11\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:52\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:01",
     "dispatcherTime": "07:30",
@@ -3052,6 +3215,7 @@
     "workDuration": "11:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:05\",\"distance\":\"43,2\",\"route\":\"14\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"20:37\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:05",
     "dispatcherTime": "18:35",
@@ -3066,6 +3230,7 @@
     "workDuration": "3:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"21:03\",\"distance\":\"35\",\"route\":\"15\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:19\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:49\",\"distance\":\"35\",\"route\":\"20\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"00:08\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "21:04",
     "dispatcherTime": "20:35",
@@ -3080,6 +3245,7 @@
     "workDuration": "4:25"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:33\",\"distance\":\"34\",\"route\":\"34\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:46\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:58\",\"distance\":\"43,2\",\"route\":\"34\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"23:32\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:33",
     "dispatcherTime": "19:00",
@@ -3094,6 +3260,7 @@
     "workDuration": "5:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 1\",\"boardTime\":\"19:34\",\"distance\":\"34\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:45\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:12\",\"distance\":\"43,2\",\"route\":\"22\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"23:45\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:34",
     "dispatcherTime": "19:05",
@@ -3108,6 +3275,7 @@
     "workDuration": "5:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:21\",\"distance\":\"42,2\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:51\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:39\",\"distance\":\"34\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:51\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:21",
     "dispatcherTime": "18:50",
@@ -3122,6 +3290,7 @@
     "workDuration": "4:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"20:49\",\"distance\":\"69\",\"route\":\"19\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"23:19\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "20:49",
     "dispatcherTime": "20:20",
@@ -3136,6 +3305,7 @@
     "workDuration": "3:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:53\",\"distance\":\"42,2\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:21\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:51\",\"distance\":\"43,2\",\"route\":\"23\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"22:29\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "17:53",
     "dispatcherTime": "17:30",
@@ -3150,6 +3320,7 @@
     "workDuration": "5:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"19:19\",\"distance\":\"46\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"21:20\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"23:41\",\"distance\":\"26\",\"route\":\"5\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"00:54\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "19:19",
     "dispatcherTime": "18:20",
@@ -3164,6 +3335,7 @@
     "workDuration": "6:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:25\",\"distance\":\"42,2\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:53\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:41\",\"distance\":\"42,2\",\"route\":\"37\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:14\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "18:25",
     "dispatcherTime": "17:55",
@@ -3178,9 +3350,10 @@
     "workDuration": "5:05"
   },
   {
-    "boardStation": "МС-0 ",
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"18:39\",\"distance\":\"23\",\"route\":\"5\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"19:39\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"20:59\",\"distance\":\"46\",\"route\":\"8\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"23:05\"},{\"boardStation\":\"МС-0, ТУПИК \",\"boardTime\":\"00:40\",\"distance\":\"3\",\"route\":\"2\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"01:12\"}]",
+    "boardStation": "МС-1, МС-0 ",
     "boardTime": "18:39",
-    "dispatcherTime": "17:40",
+    "dispatcherTime": "18:10",
     "distance": "72",
     "doctorTime": "17:40",
     "endTime": "01:35",
@@ -3192,6 +3365,7 @@
     "workDuration": "7:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:53\",\"distance\":\"34\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:07\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:19\",\"distance\":\"35\",\"route\":\"25\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"23:38\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:53",
     "dispatcherTime": "19:25",
@@ -3206,6 +3380,7 @@
     "workDuration": "5:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"18:59\",\"distance\":\"46\",\"route\":\"8\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"20:59\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"21:42\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"23:41\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"01:00\",\"distance\":\"3\",\"route\":\"3\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"01:21\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "18:59",
     "dispatcherTime": "18:00",
@@ -3220,6 +3395,7 @@
     "workDuration": "7:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:13\",\"distance\":\"42,2\",\"route\":\"37\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:41\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:14\",\"distance\":\"43,2\",\"route\":\"37\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"23:47\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:13",
     "dispatcherTime": "18:45",
@@ -3234,6 +3410,7 @@
     "workDuration": "5:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"19:39\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"21:42\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"23:05\",\"distance\":\"26\",\"route\":\"8\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"00:23\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "19:39",
     "dispatcherTime": "18:40",
@@ -3248,6 +3425,7 @@
     "workDuration": "7:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:17\",\"distance\":\"42,2\",\"route\":\"31\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:45\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:17\",\"distance\":\"34\",\"route\":\"33\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:29\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "18:17",
     "dispatcherTime": "17:45",
@@ -3262,6 +3440,7 @@
     "workDuration": "4:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"19:19\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"20:19\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"21:01\",\"distance\":\"46\",\"route\":\"4\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"22:59\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"00:20\",\"distance\":\"14,5\",\"route\":\"6\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"01:03\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "19:19",
     "dispatcherTime": "18:50",
@@ -3276,6 +3455,7 @@
     "workDuration": "6:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:49\",\"distance\":\"42,2\",\"route\":\"33\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:17\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:57\",\"distance\":\"35\",\"route\":\"31\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"22:13\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "18:49",
     "dispatcherTime": "18:20",
@@ -3290,6 +3470,7 @@
     "workDuration": "4:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"18:59\",\"distance\":\"46\",\"route\":\"4\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"21:01\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"22:59\",\"distance\":\"37,5\",\"route\":\"4\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"00:44\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "18:59",
     "dispatcherTime": "18:30",
@@ -3304,6 +3485,7 @@
     "workDuration": "7:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:45\",\"distance\":\"34\",\"route\":\"31\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:57\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:29\",\"distance\":\"35\",\"route\":\"33\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"22:45\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:45",
     "dispatcherTime": "19:10",
@@ -3318,6 +3500,7 @@
     "workDuration": "4:25"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"20:39\",\"distance\":\"46\",\"route\":\"7\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"22:47\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"23:47\",\"distance\":\"14,5\",\"route\":\"7\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"00:35\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "20:39",
     "dispatcherTime": "20:10",
@@ -3332,6 +3515,7 @@
     "workDuration": "4:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:16\",\"distance\":\"43,2\",\"route\":\"13\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"10:49\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:55\",\"distance\":\"42,2\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:25\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:24\",\"distance\":\"34\",\"route\":\"31\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:36\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:07\",\"distance\":\"42,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:37\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:13\",\"distance\":\"34\",\"route\":\"36\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:25\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:16",
     "dispatcherTime": "08:45",
@@ -3346,6 +3530,7 @@
     "workDuration": "11:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"08:21\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"09:17\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"10:39\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"12:39\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"13:19\",\"distance\":\"46\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"15:19\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"16:39\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"18:39\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "08:21",
     "dispatcherTime": "07:20",
@@ -3360,6 +3545,7 @@
     "workDuration": "11:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:37\",\"distance\":\"34\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:49\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:21\",\"distance\":\"42,2\",\"route\":\"28\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:53\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "18:37",
     "dispatcherTime": "18:10",
@@ -3374,6 +3560,7 @@
     "workDuration": "4:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"19:39\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"20:39\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"21:23\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"22:23\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"22:47\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"23:47\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "19:39",
     "dispatcherTime": "19:10",
@@ -3388,6 +3575,7 @@
     "workDuration": "5:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:09\",\"distance\":\"34\",\"route\":\"28\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:21\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:53\",\"distance\":\"35\",\"route\":\"28\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"23:11\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:09",
     "dispatcherTime": "18:40",
@@ -3402,6 +3590,7 @@
     "workDuration": "5:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"20:00\",\"distance\":\"43,2\",\"route\":\"10\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:30\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:34\",\"distance\":\"35\",\"route\":\"26\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"23:53\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "20:00",
     "dispatcherTime": "19:30",
@@ -3416,6 +3605,7 @@
     "workDuration": "5:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:49\",\"distance\":\"43,2\",\"route\":\"24\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"21:27\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:49",
     "dispatcherTime": "19:20",
@@ -3430,6 +3620,7 @@
     "workDuration": "3:10"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"19:53\",\"distance\":\"35\",\"route\":\"9\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:10\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:58\",\"distance\":\"43,2\",\"route\":\"25\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"23:30\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "19:53",
     "dispatcherTime": "19:25",
@@ -3444,6 +3635,7 @@
     "workDuration": "4:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:25\",\"distance\":\"34\",\"route\":\"36\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:37\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:18\",\"distance\":\"34\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:30\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:25",
     "dispatcherTime": "18:55",
@@ -3458,6 +3650,7 @@
     "workDuration": "4:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:58\",\"distance\":\"68\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:24\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "18:58",
     "dispatcherTime": "18:30",
@@ -3472,6 +3665,7 @@
     "workDuration": "4:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:33\",\"distance\":\"42,2\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:01\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:02\",\"distance\":\"42,2\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"22:35\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "18:33",
     "dispatcherTime": "18:05",
@@ -3486,6 +3680,7 @@
     "workDuration": "5:10"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"20:14\",\"distance\":\"43,2\",\"route\":\"13\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:44\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "20:14",
     "dispatcherTime": "19:45",
@@ -3500,6 +3695,7 @@
     "workDuration": "2:45"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:29\",\"distance\":\"42,2\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:02\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:34\",\"distance\":\"42,2\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"23:01\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:29",
     "dispatcherTime": "19:00",
@@ -3514,6 +3710,7 @@
     "workDuration": "4:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:28\",\"distance\":\"42,2\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:58\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "20:28",
     "dispatcherTime": "20:00",
@@ -3528,6 +3725,7 @@
     "workDuration": "4:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:01\",\"distance\":\"42,2\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:34\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"22:35\",\"distance\":\"35\",\"route\":\"26\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"23:53\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "20:01",
     "dispatcherTime": "19:30",
@@ -3542,6 +3740,7 @@
     "workDuration": "5:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:53\",\"distance\":\"34\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:05\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:13\",\"distance\":\"43,2\",\"route\":\"15\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"22:50\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "18:53",
     "dispatcherTime": "18:25",
@@ -3556,6 +3755,7 @@
     "workDuration": "5:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:05\",\"distance\":\"34\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:18\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "20:05",
     "dispatcherTime": "19:35",
@@ -3570,6 +3770,7 @@
     "workDuration": "2:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:41\",\"distance\":\"42,2\",\"route\":\"15\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:13\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:41",
     "dispatcherTime": "19:10",
@@ -3584,6 +3785,7 @@
     "workDuration": "3:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:34\",\"distance\":\"43,2\",\"route\":\"17\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"10:08\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:10\",\"distance\":\"42,2\",\"route\":\"32\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:40\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:43\",\"distance\":\"42,2\",\"route\":\"28\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:13\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:25\",\"distance\":\"42,2\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:53\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:34",
     "dispatcherTime": "08:05",
@@ -3598,6 +3800,7 @@
     "workDuration": "10:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"08:35\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"10:39\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"11:19\",\"distance\":\"46\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"13:19\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"14:39\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"16:39\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"17:19\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"18:19\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "08:35",
     "dispatcherTime": "07:35",
@@ -3612,6 +3815,7 @@
     "workDuration": "10:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"20:22\",\"distance\":\"35\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:39\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "20:22",
     "dispatcherTime": "19:50",
@@ -3626,6 +3830,7 @@
     "workDuration": "2:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:29\",\"distance\":\"34\",\"route\":\"15\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:41\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:29\",\"distance\":\"43,2\",\"route\":\"29\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"22:07\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "18:29",
     "dispatcherTime": "18:00",
@@ -3640,6 +3845,7 @@
     "workDuration": "5:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:17\",\"distance\":\"34\",\"route\":\"29\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:29\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"21:44\",\"distance\":\"43,2\",\"route\":\"32\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"23:17\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "19:17",
     "dispatcherTime": "18:50",
@@ -3654,6 +3860,7 @@
     "workDuration": "5:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:41\",\"distance\":\"42,2\",\"route\":\"32\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"20:09\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "18:41",
     "dispatcherTime": "18:10",
@@ -3668,6 +3875,7 @@
     "workDuration": "4:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:09\",\"distance\":\"42,2\",\"route\":\"32\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"21:44\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "20:09",
     "dispatcherTime": "19:40",
@@ -3682,6 +3890,7 @@
     "workDuration": "3:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"20:37\",\"distance\":\"35\",\"route\":\"36\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"21:53\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "20:37",
     "dispatcherTime": "20:10",
@@ -3696,6 +3905,7 @@
     "workDuration": "2:35"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:01\",\"distance\":\"35\",\"route\":\"18\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"10:17\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:19\",\"distance\":\"42,2\",\"route\":\"33\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:49\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:25\",\"distance\":\"42,2\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:55\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:58\",\"distance\":\"42,2\",\"route\":\"35\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:28\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:05\",\"distance\":\"34\",\"route\":\"29\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:17\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:01",
     "dispatcherTime": "08:30",
@@ -3710,6 +3920,7 @@
     "workDuration": "11:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"09:17\",\"distance\":\"46\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"11:19\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"12:39\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"14:39\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"15:19\",\"distance\":\"46\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"17:19\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"18:19\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"19:19\"}]",
     "boardStation": "МС-0",
     "boardTime": "09:17",
     "dispatcherTime": "08:20",
@@ -3724,6 +3935,7 @@
     "workDuration": "11:10"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:37\",\"distance\":\"35\",\"route\":\"19\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"09:53\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:52\",\"distance\":\"42,2\",\"route\":\"29\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:22\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:58\",\"distance\":\"42,2\",\"route\":\"35\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:28\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:31\",\"distance\":\"42,2\",\"route\":\"36\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:01\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:49\",\"distance\":\"34\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:01\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:37",
     "dispatcherTime": "08:10",
@@ -3738,6 +3950,7 @@
     "workDuration": "11:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"07:54\",\"distance\":\"23\",\"route\":\"4\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"09:01\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"10:19\",\"distance\":\"46\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"12:19\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"12:59\",\"distance\":\"46\",\"route\":\"4\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"14:59\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"16:19\",\"distance\":\"46\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"18:19\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "07:54",
     "dispatcherTime": "07:25",
@@ -3752,6 +3965,7 @@
     "workDuration": "11:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:52\",\"distance\":\"42,2\",\"route\":\"29\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:22\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:31\",\"distance\":\"42,2\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:04\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:12\",\"distance\":\"34\",\"route\":\"31\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:24\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:49\",\"distance\":\"42,2\",\"route\":\"33\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:19\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "07:52",
     "dispatcherTime": "07:30",
@@ -3766,6 +3980,7 @@
     "workDuration": "10:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"08:46\",\"distance\":\"34,5\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"10:19\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"10:59\",\"distance\":\"46\",\"route\":\"4\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"12:59\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"14:19\",\"distance\":\"46\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"16:19\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"16:59\",\"distance\":\"46\",\"route\":\"4\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"18:59\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "08:46",
     "dispatcherTime": "07:45",
@@ -3780,6 +3995,7 @@
     "workDuration": "11:25"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:04\",\"distance\":\"43,2\",\"route\":\"27\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"10:38\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:46\",\"distance\":\"42,2\",\"route\":\"37\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:16\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:15\",\"distance\":\"68\",\"route\":\"39\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:39\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:37\",\"distance\":\"42,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:05\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:04",
     "dispatcherTime": "08:35",
@@ -3794,6 +4010,7 @@
     "workDuration": "11:10"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"09:01\",\"distance\":\"46\",\"route\":\"4\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"10:59\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"12:19\",\"distance\":\"46\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"14:19\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"14:59\",\"distance\":\"46\",\"route\":\"4\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"16:59\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"18:19\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"19:19\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "09:01",
     "dispatcherTime": "08:30",
@@ -3808,6 +4025,7 @@
     "workDuration": "11:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"07:58\",\"distance\":\"43,2\",\"route\":\"30\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"09:32\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:38\",\"distance\":\"34\",\"route\":\"39\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:51\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:03\",\"distance\":\"34\",\"route\":\"39\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:15\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:46\",\"distance\":\"42,2\",\"route\":\"37\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:16\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:48\",\"distance\":\"42,2\",\"route\":\"31\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:17\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "07:58",
     "dispatcherTime": "07:30",
@@ -3822,6 +4040,7 @@
     "workDuration": "11:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"08:28\",\"distance\":\"23\",\"route\":\"8\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"09:29\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"10:39\",\"distance\":\"46\",\"route\":\"7\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"12:39\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"13:29\",\"distance\":\"46\",\"route\":\"8\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"15:29\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"16:39\",\"distance\":\"46\",\"route\":\"7\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"18:39\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "08:28",
     "dispatcherTime": "08:00",
@@ -3836,6 +4055,7 @@
     "workDuration": "10:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"08:11\",\"distance\":\"23\",\"route\":\"8\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"09:11\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"10:05\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"11:01\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"11:57\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"12:53\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"13:49\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"14:45\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"15:41\",\"distance\":\"46\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"17:37\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "08:11",
     "dispatcherTime": "07:10",
@@ -3850,6 +4070,7 @@
     "workDuration": "10:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:58\",\"distance\":\"68\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:22\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:28\",\"distance\":\"42,2\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:52\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:10\",\"distance\":\"34\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:22\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:58\",\"distance\":\"34\",\"route\":\"20\",\"unboardStation\":\"МС-1, ПЪТ 1\",\"unboardTime\":\"19:10\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:58",
     "dispatcherTime": "09:30",
@@ -3864,6 +4085,7 @@
     "workDuration": "10:20"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:52\",\"distance\":\"43,2\",\"route\":\"38\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"10:26\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:28\",\"distance\":\"42,2\",\"route\":\"35\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:58\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:10\",\"distance\":\"42,2\",\"route\":\"32\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:40\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:16\",\"distance\":\"42,2\",\"route\":\"37\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:45\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:52",
     "dispatcherTime": "08:20",
@@ -3878,6 +4100,7 @@
     "workDuration": "10:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"08:39\",\"distance\":\"46\",\"route\":\"7\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"10:39\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"11:29\",\"distance\":\"46\",\"route\":\"8\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"13:29\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"14:39\",\"distance\":\"\",\"route\":\"7\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"16:39\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"17:29\",\"distance\":\"34,5\",\"route\":\"8\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"18:59\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "08:39",
     "dispatcherTime": "08:10",
@@ -3892,6 +4115,7 @@
     "workDuration": "11:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:55\",\"distance\":\"76,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:37\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:40\",\"distance\":\"42,2\",\"route\":\"32\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:10\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:04\",\"distance\":\"42,2\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:34\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:01\",\"distance\":\"34\",\"route\":\"36\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:13\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:55",
     "dispatcherTime": "08:25",
@@ -3906,6 +4130,7 @@
     "workDuration": "10:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"09:29\",\"distance\":\"46\",\"route\":\"8\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"11:29\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"12:39\",\"distance\":\"46\",\"route\":\"7\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"14:39\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"15:29\",\"distance\":\"46\",\"route\":\"8\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"17:29\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"18:39\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"19:39\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "09:29",
     "dispatcherTime": "09:00",
@@ -3920,6 +4145,7 @@
     "workDuration": "10:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:58\",\"distance\":\"42,2\",\"route\":\"35\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:28\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:31\",\"distance\":\"42,2\",\"route\":\"36\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:01\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:37\",\"distance\":\"42,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:07\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:43\",\"distance\":\"34\",\"route\":\"28\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:57\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"19:01\",\"distance\":\"35\",\"route\":\"21\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"20:17\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:58",
     "dispatcherTime": "09:30",
@@ -3934,6 +4160,7 @@
     "workDuration": "11:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:04\",\"distance\":\"76,2\",\"route\":\"31\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:48\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:34\",\"distance\":\"42,2\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:04\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:39\",\"distance\":\"42,2\",\"route\":\"39\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:09\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:04",
     "dispatcherTime": "07:35",
@@ -3948,6 +4175,7 @@
     "workDuration": "11:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:01\",\"distance\":\"68\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:25\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:37\",\"distance\":\"42,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:07\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:01\",\"distance\":\"42,2\",\"route\":\"36\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:31\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:52\",\"distance\":\"34\",\"route\":\"29\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:05\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:01",
     "dispatcherTime": "07:30",
@@ -3962,6 +4190,7 @@
     "workDuration": "11:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:07\",\"distance\":\"68\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:31\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:04\",\"distance\":\"42,2\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:34\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:19\",\"distance\":\"42,2\",\"route\":\"33\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:49\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:19\",\"distance\":\"42,2\",\"route\":\"33\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:49\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:07",
     "dispatcherTime": "07:40",
@@ -3976,6 +4205,7 @@
     "workDuration": "11:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:25\",\"distance\":\"35\",\"route\":\"20\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"09:41\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:41\",\"distance\":\"42,2\",\"route\":\"28\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:13\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:49\",\"distance\":\"42,2\",\"route\":\"33\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:19\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:10\",\"distance\":\"42,2\",\"route\":\"32\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:41\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:25",
     "dispatcherTime": "07:55",
@@ -3990,6 +4220,7 @@
     "workDuration": "11:25"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:19\",\"distance\":\"76,2\",\"route\":\"36\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:01\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:22\",\"distance\":\"42,2\",\"route\":\"29\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:52\"},{\"boardStation\":\"ДЕПО \",\"boardTime\":\"16:24\",\"distance\":\"35\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:41\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:19",
     "dispatcherTime": "07:50",
@@ -4004,6 +4235,7 @@
     "workDuration": "10:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:16\",\"distance\":\"42,2\",\"route\":\"33\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:46\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:16\",\"distance\":\"42,2\",\"route\":\"37\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:46\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:28\",\"distance\":\"42,2\",\"route\":\"35\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:58\"},{\"boardStation\":\"ДЕПО \",\"boardTime\":\"17:00\",\"distance\":\"43,2\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:33\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:16",
     "dispatcherTime": "07:45",
@@ -4018,6 +4250,7 @@
     "workDuration": "11:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:28\",\"distance\":\"42,2\",\"route\":\"35\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:58\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:25\",\"distance\":\"42,2\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:55\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:52\",\"distance\":\"42,2\",\"route\":\"29\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:22\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:28\",\"distance\":\"42,2\",\"route\":\"35\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:57\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:58",
     "dispatcherTime": "08:00",
@@ -4032,6 +4265,7 @@
     "workDuration": "11:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"08:05\",\"distance\":\"46\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"10:05\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"11:01\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"11:57\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"12:53\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"13:49\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"14:45\",\"distance\":\"23\",\"route\":\"7\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"15:41\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"16:26\",\"distance\":\"46\",\"route\":\"3\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"18:19\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "08:05",
     "dispatcherTime": "07:05",
@@ -4046,6 +4280,7 @@
     "workDuration": "11:25"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:50\",\"distance\":\"42,2\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:16\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:22\",\"distance\":\"68\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:46\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:04\",\"distance\":\"42,2\",\"route\":\"11\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:28\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:34\",\"distance\":\"34\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:46\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:50",
     "dispatcherTime": "08:20",
@@ -4060,6 +4295,7 @@
     "workDuration": "11:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:46\",\"distance\":\"42,2\",\"route\":\"37\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:16\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:48\",\"distance\":\"34\",\"route\":\"31\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:00\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:16\",\"distance\":\"42,2\",\"route\":\"37\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:46\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:34\",\"distance\":\"34\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"17:49\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:46",
     "dispatcherTime": "08:15",
@@ -4074,6 +4310,7 @@
     "workDuration": "10:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"ДЕПО \",\"boardTime\":\"08:09\",\"distance\":\"69\",\"route\":\"39\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:38\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:13\",\"distance\":\"42,2\",\"route\":\"28\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:43\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:13\",\"distance\":\"42,2\",\"route\":\"28\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:43\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:24\",\"distance\":\"34\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:37\"}]",
     "boardStation": "ДЕПО ",
     "boardTime": "08:09",
     "dispatcherTime": "07:40",
@@ -4088,6 +4325,7 @@
     "workDuration": "11:40"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:46\",\"distance\":\"42,2\",\"route\":\"33\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:19\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:36\",\"distance\":\"34\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:48\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:55\",\"distance\":\"42,2\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:25\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:09\",\"distance\":\"43,2\",\"route\":\"39\",\"unboardStation\":\"ДЕПО \",\"unboardTime\":\"19:41\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:46",
     "dispatcherTime": "09:15",
@@ -4102,6 +4340,7 @@
     "workDuration": "11:15"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:40\",\"distance\":\"42,2\",\"route\":\"32\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:10\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:18\",\"distance\":\"34\",\"route\":\"34\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:30\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:22\",\"distance\":\"42,2\",\"route\":\"29\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:52\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:21\",\"distance\":\"34\",\"route\":\"34\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:33\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:40",
     "dispatcherTime": "09:10",
@@ -4116,6 +4355,7 @@
     "workDuration": "11:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:22\",\"distance\":\"42,2\",\"route\":\"29\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:52\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:00\",\"distance\":\"34\",\"route\":\"31\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:12\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:06\",\"distance\":\"34\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:18\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:45\",\"distance\":\"42,2\",\"route\":\"37\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:13\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:22",
     "dispatcherTime": "08:50",
@@ -4130,6 +4370,7 @@
     "workDuration": "11:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:10\",\"distance\":\"42,2\",\"route\":\"28\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:41\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:42\",\"distance\":\"68\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:06\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:36\",\"distance\":\"34\",\"route\":\"31\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:48\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"18:01\",\"distance\":\"42,2\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:29\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:10",
     "dispatcherTime": "08:40",
@@ -4144,6 +4385,7 @@
     "workDuration": "11:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"08:35\",\"distance\":\"23\",\"route\":\"4\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"09:35\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"10:13\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"11:09\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"12:45\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"13:41\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"14:37\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"15:33\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"16:29\",\"distance\":\"23\",\"route\":\"6\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"17:30\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"18:19\",\"distance\":\"23\",\"route\":\"3\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"19:15\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "08:35",
     "dispatcherTime": "07:35",
@@ -4158,6 +4400,7 @@
     "workDuration": "11:50"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:15\",\"distance\":\"42,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:40\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:10\",\"distance\":\"34\",\"route\":\"23\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:22\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:28\",\"distance\":\"42,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:52\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:46\",\"distance\":\"68\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:10\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:15",
     "dispatcherTime": "07:45",
@@ -4172,6 +4415,7 @@
     "workDuration": "11:05"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"08:17\",\"distance\":\"46\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"10:13\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"11:09\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"12:05\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"13:01\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"13:57\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"14:53\",\"distance\":\"23\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"15:49\"},{\"boardStation\":\"МС-0, ПЪТ 1\",\"boardTime\":\"16:45\",\"distance\":\"46\",\"route\":\"2\",\"unboardStation\":\"МС-0, ПЪТ 1\",\"unboardTime\":\"18:40\"}]",
     "boardStation": "МС-0 ",
     "boardTime": "08:18",
     "dispatcherTime": "07:20",
@@ -4186,6 +4430,7 @@
     "workDuration": "11:30"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"09:04\",\"distance\":\"34\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:22\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"11:04\",\"distance\":\"42,2\",\"route\":\"14\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"12:28\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:22\",\"distance\":\"68\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:46\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:40\",\"distance\":\"42,2\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:04\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "09:04",
     "dispatcherTime": "08:35",
@@ -4200,6 +4445,7 @@
     "workDuration": "11:10"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"08:17\",\"distance\":\"23\",\"route\":\"5\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"09:17\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"10:09\",\"distance\":\"46\",\"route\":\"9\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"12:01\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"13:05\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"14:57\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"15:45\",\"distance\":\"46\",\"route\":\"9\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"17:37\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"18:40\",\"distance\":\"23\",\"route\":\"5\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"19:36\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "08:17",
     "dispatcherTime": "07:45",
@@ -4214,6 +4460,7 @@
     "workDuration": "12:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:29\",\"distance\":\"68\",\"route\":\"17\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"10:58\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:04\",\"distance\":\"42,2\",\"route\":\"25\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"13:28\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"14:10\",\"distance\":\"34\",\"route\":\"26\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:22\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"16:52\",\"distance\":\"42,2\",\"route\":\"21\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:16\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:29",
     "dispatcherTime": "08:00",
@@ -4228,6 +4475,7 @@
     "workDuration": "10:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"09:11\",\"distance\":\"23\",\"route\":\"9\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"10:09\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"11:13\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"13:05\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"13:53\",\"distance\":\"46\",\"route\":\"9\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"15:45\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"16:48\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"18:40\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "09:11",
     "dispatcherTime": "08:40",
@@ -4242,6 +4490,7 @@
     "workDuration": "10:10"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:28\",\"distance\":\"42,2\",\"route\":\"24\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:52\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"12:52\",\"distance\":\"42,2\",\"route\":\"27\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"14:16\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"15:10\",\"distance\":\"34\",\"route\":\"16\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"16:22\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:52\",\"distance\":\"42,2\",\"route\":\"11\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"19:16\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "10:28",
     "dispatcherTime": "09:55",
@@ -4256,6 +4505,7 @@
     "workDuration": "10:00"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"09:17\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"11:13\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"12:01\",\"distance\":\"46\",\"route\":\"9\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"13:53\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"14:57\",\"distance\":\"46\",\"route\":\"5\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"16:48\"},{\"boardStation\":\"МС-212, ПЪТ 2\",\"boardTime\":\"17:37\",\"distance\":\"46\",\"route\":\"9\",\"unboardStation\":\"МС-212, ПЪТ 2\",\"unboardTime\":\"19:29\"}]",
     "boardStation": "МС-212 ",
     "boardTime": "09:17",
     "dispatcherTime": "08:45",
@@ -4270,6 +4520,7 @@
     "workDuration": "10:55"
   },
   {
+    "additionalInfo": "[{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"08:22\",\"distance\":\"34,2\",\"route\":\"15/20\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"09:32\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"10:04\",\"distance\":\"42,4\",\"route\":\"10/27\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"11:28\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"13:34\",\"distance\":\"68\",\"route\":\"22\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"15:58\"},{\"boardStation\":\"МС-1, ПЪТ 2\",\"boardTime\":\"17:16\",\"distance\":\"42,2\",\"route\":\"12\",\"unboardStation\":\"МС-1, ПЪТ 2\",\"unboardTime\":\"18:40\"}]",
     "boardStation": "МС-1 ",
     "boardTime": "08:22",
     "dispatcherTime": "07:50",
@@ -4284,9 +4535,9 @@
     "workDuration": "11:30"
   },
   {
-    "boardStation": "МС-212 ",
+    "boardStation": "МС-1",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "07:15",
+    "dispatcherTime": "07:45",
     "distance": "0",
     "doctorTime": "07:15",
     "endTime": "19:15",
@@ -4298,9 +4549,9 @@
     "workDuration": "12:00"
   },
   {
-    "boardStation": "МС-212 ",
+    "boardStation": "МС-1",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "07:15",
+    "dispatcherTime": "07:45",
     "distance": "0",
     "doctorTime": "07:15",
     "endTime": "19:15",
@@ -4312,9 +4563,9 @@
     "workDuration": "12:00"
   },
   {
-    "boardStation": "МС-212 ",
+    "boardStation": "МС-1",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "08:15",
+    "dispatcherTime": "08:45",
     "distance": "0",
     "doctorTime": "08:15",
     "endTime": "20:15",
@@ -4326,9 +4577,9 @@
     "workDuration": "12:00"
   },
   {
-    "boardStation": "МС-212 ",
+    "boardStation": "МС-1",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "08:15",
+    "dispatcherTime": "08:45",
     "distance": "0",
     "doctorTime": "08:15",
     "endTime": "20:15",
@@ -4452,9 +4703,9 @@
     "workDuration": "12:00"
   },
   {
-    "boardStation": "МС-212",
+    "boardStation": "МС-1",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "19:15",
+    "dispatcherTime": "19:45",
     "distance": "0",
     "doctorTime": "19:15",
     "endTime": "07:15",
@@ -4466,9 +4717,9 @@
     "workDuration": "12:00"
   },
   {
-    "boardStation": "МС-212",
+    "boardStation": "МС-1",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "19:15",
+    "dispatcherTime": "19:45",
     "distance": "0",
     "doctorTime": "19:15",
     "endTime": "07:15",
@@ -4480,9 +4731,9 @@
     "workDuration": "12:00"
   },
   {
-    "boardStation": "МС-212",
+    "boardStation": "МС-1",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "20:15",
+    "dispatcherTime": "20:45",
     "distance": "0",
     "doctorTime": "20:15",
     "endTime": "08:15",
@@ -4494,9 +4745,9 @@
     "workDuration": "12:00"
   },
   {
-    "boardStation": "МС-212",
+    "boardStation": "МС-1",
     "boardTime": "МС-0 ",
-    "dispatcherTime": "20:15",
+    "dispatcherTime": "20:45",
     "distance": "0",
     "doctorTime": "20:15",
     "endTime": "08:15",
